@@ -1,0 +1,1482 @@
+{
+  "temagami": {
+    "name": "Temagami (Lady Evelyn-Smoothwater, Obabika River, Sturgeon River, Solace, Makobe-Grays River)",
+    "resourceLocationId": -2147483532,
+    "categoryIds": [
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "frenchriver": {
+    "name": "French River Provincial Park",
+    "resourceLocationId": -2147483612,
+    "categoryIds": [
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "algonquin": {
+    "name": "Algonquin - Mew Lake Campground",
+    "resourceLocationId": -2147483585,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "awenda": {
+    "name": "Awenda Provincial Park",
+    "resourceLocationId": -2147483639,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "bonecho": {
+    "name": "Bon Echo Provincial Park",
+    "resourceLocationId": -2147483634,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "brontecreek": {
+    "name": "Bronte Creek Provincial Park - Campground Area",
+    "resourceLocationId": -2147483630,
+    "categoryIds": [
+      0,
+      2,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "chutes": {
+    "name": "Chutes Provincial Park",
+    "resourceLocationId": -2147483624,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "craigleith": {
+    "name": "Craigleith Provincial Park",
+    "resourceLocationId": -2147483623,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "driftwood": {
+    "name": "Driftwood Provincial Park",
+    "resourceLocationId": -2147483620,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "emily": {
+    "name": "Emily Provincial Park",
+    "resourceLocationId": -2147483618,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "finlaysonpoint": {
+    "name": "Finlayson Point Provincial Park",
+    "resourceLocationId": -2147483614,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "grundylake": {
+    "name": "Grundy Lake Provincial Park",
+    "resourceLocationId": -2147483609,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "inverhuron": {
+    "name": "Inverhuron Provincial Park",
+    "resourceLocationId": -2147483607,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "kakabekafalls": {
+    "name": "Kakabeka Falls Provincial Park",
+    "resourceLocationId": -2147483605,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "kapkigiwan": {
+    "name": "Kap-Kig-Iwan Provincial Park",
+    "resourceLocationId": -2147483604,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "kettlelakes": {
+    "name": "Kettle Lakes Provincial Park",
+    "resourceLocationId": -2147483602,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "killarney": {
+    "name": "Killarney Provincial Park",
+    "resourceLocationId": -2147483601,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      5
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "killbear": {
+    "name": "Killbear Provincial Park",
+    "resourceLocationId": -2147483600,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "lakesuperior": {
+    "name": "Lake Superior Provincial Park",
+    "resourceLocationId": -2147483646,
+    "categoryIds": [
+      0,
+      4,
+      5,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "longpoint": {
+    "name": "Long Point Provincial Park",
+    "resourceLocationId": -2147483593,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "macgregorpoint": {
+    "name": "MacGregor Point Provincial Park",
+    "resourceLocationId": -2147483592,
+    "categoryIds": [
+      0,
+      2,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "martenriver": {
+    "name": "Marten River Provincial Park",
+    "resourceLocationId": -2147483588,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "mcraepoint": {
+    "name": "McRae Point Provincial Park",
+    "resourceLocationId": -2147483586,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "mississagi": {
+    "name": "Mississagi Provincial Park",
+    "resourceLocationId": -2147483581,
+    "categoryIds": [
+      0,
+      4,
+      6,
+      11
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "murphyspoint": {
+    "name": "Murphys Point Provincial Park",
+    "resourceLocationId": -2147483580,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "oastlerlake": {
+    "name": "Oastler Lake Provincial Park",
+    "resourceLocationId": -2147483576,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "pancakebay": {
+    "name": "Pancake Bay Provincial Park",
+    "resourceLocationId": -2147483569,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "pointfarms": {
+    "name": "Point Farms Provincial Park",
+    "resourceLocationId": -2147483566,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "rainbowfalls": {
+    "name": "Rainbow Falls Provincial Park",
+    "resourceLocationId": -2147483560,
+    "categoryIds": [
+      0,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "rideauriver": {
+    "name": "Rideau River Provincial Park",
+    "resourceLocationId": -2147483556,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "rondeau": {
+    "name": "Rondeau Provincial Park",
+    "resourceLocationId": -2147483553,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "rockpoint": {
+    "name": "Rock Point Provincial Park",
+    "resourceLocationId": -2147483554,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "rushingriver": {
+    "name": "Rushing River Provincial Park",
+    "resourceLocationId": -2147483552,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sandbanks": {
+    "name": "Sandbanks Provincial Park",
+    "resourceLocationId": -2147483549,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "saublefalls": {
+    "name": "Sauble Falls Provincial Park",
+    "resourceLocationId": -2147483547,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "selkirk": {
+    "name": "Selkirk Provincial Park",
+    "resourceLocationId": -2147483546,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sharbotlake": {
+    "name": "Sharbot Lake Provincial Park",
+    "resourceLocationId": -2147483545,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sibbaldpoint": {
+    "name": "Sibbald Point Provincial Park",
+    "resourceLocationId": -2147483544,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "silverlake": {
+    "name": "Silver Lake Provincial Park",
+    "resourceLocationId": -2147483541,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sixmilelake": {
+    "name": "Six Mile Lake Provincial Park",
+    "resourceLocationId": -2147483539,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sleepinggiant": {
+    "name": "Sleeping Giant Provincial Park",
+    "resourceLocationId": -2147483538,
+    "categoryIds": [
+      0,
+      2,
+      5,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "voyageur": {
+    "name": "Voyageur Provincial Park",
+    "resourceLocationId": -2147483530,
+    "categoryIds": [
+      0,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "turkeypoint": {
+    "name": "Turkey Point Provincial Park",
+    "resourceLocationId": -2147483531,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "eskerlakes": {
+    "name": "Esker Lakes Provincial Park",
+    "resourceLocationId": -2147483617,
+    "categoryIds": [
+      0,
+      4,
+      6,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "kawarthahighlands": {
+    "name": "Kawartha Highlands Provincial Park",
+    "resourceLocationId": -2147483603,
+    "categoryIds": [
+      4
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "charlestonlake": {
+    "name": "Charleston Lake Provincial Park",
+    "resourceLocationId": -2147483625,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      5,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "lakestpeter": {
+    "name": "Lake St. Peter Provincial Park",
+    "resourceLocationId": -2147483595,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "mikisew": {
+    "name": "Mikisew Provincial Park",
+    "resourceLocationId": -2147483584,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "pakwash": {
+    "name": "Pakwash Provincial Park",
+    "resourceLocationId": -2147483570,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "restoule": {
+    "name": "Restoule Provincial Park",
+    "resourceLocationId": -2147483557,
+    "categoryIds": [
+      0,
+      4,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "silentlake": {
+    "name": "Silent Lake Provincial Park",
+    "resourceLocationId": -2147483543,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "arrowhead": {
+    "name": "Arrowhead Provincial Park",
+    "resourceLocationId": -2147483641,
+    "categoryIds": [
+      0,
+      2,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "quetico": {
+    "name": "Quetico Provincial Park",
+    "resourceLocationId": -2147483562,
+    "categoryIds": [
+      0,
+      2,
+      11,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "missinaibi": {
+    "name": "Missinaibi Provincial Park (Lake)",
+    "resourceLocationId": -2147483583,
+    "categoryIds": [
+      0,
+      4,
+      6,
+      11
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "spanishriverbiscotasilakes": {
+    "name": "Spanish River & Biscotasi Lake Provincial Parks",
+    "resourceLocationId": -2147483536,
+    "categoryIds": [
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "tidewater": {
+    "name": "Tidewater Provincial Park",
+    "resourceLocationId": -2147483515,
+    "categoryIds": [
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "wabakimi": {
+    "name": "Wabakimi Provincial Park",
+    "resourceLocationId": -2147483529,
+    "categoryIds": [
+      3,
+      4,
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "woodlandcaribou": {
+    "name": "Woodland Caribou Provincial Park",
+    "resourceLocationId": -2147483523,
+    "categoryIds": [
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "fitzroy": {
+    "name": "Fitzroy Provincial Park",
+    "resourceLocationId": -2147483613,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "pinery": {
+    "name": "Pinery Provincial Park",
+    "resourceLocationId": -2147483568,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "aaron": {
+    "name": "Aaron Provincial Park",
+    "resourceLocationId": -2147483648,
+    "categoryIds": [
+      0,
+      6,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "presquile": {
+    "name": "Presqu'ile Provincial Park",
+    "resourceLocationId": -2147483563,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "darlington": {
+    "name": "Darlington Provincial Park",
+    "resourceLocationId": -2147483622,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "balsamlake": {
+    "name": "Balsam Lake Provincial Park",
+    "resourceLocationId": -2147483638,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "ivanhoelake": {
+    "name": "Ivanhoe Lake Provincial Park",
+    "resourceLocationId": -2147483606,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "arrowlake": {
+    "name": "Arrow Lake Provincial Park",
+    "resourceLocationId": -2147483642,
+    "categoryIds": [
+      0,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "algonquinbackcountry": {
+    "name": "Algonquin Backcountry",
+    "resourceLocationId": -2147483644,
+    "categoryIds": [
+      4,
+      5
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "bluelake": {
+    "name": "Blue Lake Provincial Park",
+    "resourceLocationId": -2147483635,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "caliperlake": {
+    "name": "Caliper Lake Provincial Park",
+    "resourceLocationId": -2147483628,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "fairbank": {
+    "name": "Fairbank Provincial Park",
+    "resourceLocationId": -2147483616,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "ferris": {
+    "name": "Ferris Provincial Park",
+    "resourceLocationId": -2147483615,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "fushimilake": {
+    "name": "Fushimi Lake Provincial Park",
+    "resourceLocationId": -2147483610,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "halfwaylake": {
+    "name": "Halfway Lake Provincial Park",
+    "resourceLocationId": -2147483608,
+    "categoryIds": [
+      0,
+      2,
+      4,
+      11,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "macleod": {
+    "name": "MacLeod Provincial Park",
+    "resourceLocationId": -2147483521,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "nagagamisis": {
+    "name": "Nagagamisis Provincial Park",
+    "resourceLocationId": -2147483579,
+    "categoryIds": [
+      0,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "neys": {
+    "name": "Neys Provincial Park",
+    "resourceLocationId": -2147483578,
+    "categoryIds": [
+      0,
+      2,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "ojibway": {
+    "name": "Ojibway Provincial Park",
+    "resourceLocationId": -2147483573,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "renebrunelle": {
+    "name": "Rene Brunelle Provincial Park",
+    "resourceLocationId": -2147483558,
+    "categoryIds": [
+      0,
+      6,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sandbarlake": {
+    "name": "Sandbar Lake Provincial Park",
+    "resourceLocationId": -2147483548,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "siouxnarrows": {
+    "name": "Sioux Narrows Provincial Park",
+    "resourceLocationId": -2147483540,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "wakamilake": {
+    "name": "Wakami Lake Provincial Park",
+    "resourceLocationId": -2147483528,
+    "categoryIds": [
+      0,
+      4,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "whitelake": {
+    "name": "White Lake Provincial Park",
+    "resourceLocationId": -2147483526,
+    "categoryIds": [
+      0,
+      6,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "silverfalls": {
+    "name": "Silver Falls Provincial Park",
+    "resourceLocationId": -2147483542,
+    "categoryIds": [
+      0,
+      23
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "themassasauga": {
+    "name": "The Massasauga Provincial Park",
+    "resourceLocationId": -2147483587,
+    "categoryIds": [
+      4,
+      11
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": true,
+    "anyReservable": true
+  },
+  "wheatley": {
+    "name": "Wheatley Provincial Park",
+    "resourceLocationId": -2147483527,
+    "categoryIds": [
+      0,
+      6
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "portburwell": {
+    "name": "Port Burwell Provincial Park",
+    "resourceLocationId": -2147483565,
+    "categoryIds": [
+      0,
+      6,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "earlrowe": {
+    "name": "Earl Rowe Provincial Park",
+    "resourceLocationId": -2147483619,
+    "categoryIds": [
+      7,
+      40
+    ],
+    "camping": false,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "samueldechamplain": {
+    "name": "Samuel de Champlain Provincial Park",
+    "resourceLocationId": -2147483551,
+    "categoryIds": [
+      0
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "windylake": {
+    "name": "Windy Lake Provincial Park",
+    "resourceLocationId": -2147483524,
+    "categoryIds": [
+      0,
+      2,
+      6,
+      7,
+      23
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": true,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "mara": {
+    "name": "Mara Provincial Park",
+    "resourceLocationId": -2147483589,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "frontenac": {
+    "name": "Frontenac Provincial Park",
+    "resourceLocationId": -2147483611,
+    "categoryIds": [
+      4,
+      5
+    ],
+    "camping": false,
+    "dayUse": false,
+    "backcountry": true,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "sturgeonbay": {
+    "name": "Sturgeon Bay Provincial Park",
+    "resourceLocationId": -2147483535,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "bonnechere": {
+    "name": "Bonnechere Provincial Park",
+    "resourceLocationId": -2147483633,
+    "categoryIds": [
+      0,
+      2
+    ],
+    "camping": true,
+    "dayUse": false,
+    "backcountry": false,
+    "roofedAccommodation": true,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  },
+  "basslake": {
+    "name": "Bass Lake Provincial Park",
+    "resourceLocationId": -2147483637,
+    "categoryIds": [
+      0,
+      7
+    ],
+    "camping": true,
+    "dayUse": true,
+    "backcountry": false,
+    "roofedAccommodation": false,
+    "groupCampsite": false,
+    "backcountryRegistration": false,
+    "anyReservable": true
+  }
+}

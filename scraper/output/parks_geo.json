@@ -1,0 +1,5554 @@
+[
+  {
+    "slug": "aaron",
+    "officialName": "AARON PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "AARON",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 116.74,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.759962,
+      "lng": -92.654339
+    }
+  },
+  {
+    "slug": "abitibidetroyes",
+    "officialName": "ABITIBI-DE-TROYES PROVINCIAL PARK (CULTURAL HERITAGE CLASS)",
+    "shortName": "ABITIBI-DE-TROYES",
+    "type": "Provincial Park",
+    "classification": "Cultural Heritage",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 4340.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.783892,
+      "lng": -80.078821
+    }
+  },
+  {
+    "slug": "adamcreek",
+    "officialName": "ADAM CREEK PROVINCIAL NATURE RESERVE",
+    "shortName": "ADAM CREEK",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 50.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.237323,
+      "lng": -82.101543
+    }
+  },
+  {
+    "slug": "agassizpeatlands",
+    "officialName": "AGASSIZ PEATLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "AGASSIZ PEATLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 5415.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.839301,
+      "lng": -94.480221
+    }
+  },
+  {
+    "slug": "albanyriver",
+    "officialName": "ALBANY RIVER PROVINCIAL PARK",
+    "shortName": "ALBANY RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 95100.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.429681,
+      "lng": -88.550678
+    }
+  },
+  {
+    "slug": "albertlakemesa",
+    "officialName": "ALBERT LAKE MESA PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "ALBERT LAKE MESA",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 130.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.097541,
+      "lng": -88.976833
+    }
+  },
+  {
+    "slug": "alexanderlakeforest",
+    "officialName": "ALEXANDER LAKE FOREST PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "ALEXANDER LAKE FOREST",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 1934.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.460329,
+      "lng": -78.920086
+    }
+  },
+  {
+    "slug": "alexanderstewart",
+    "officialName": "ALEXANDER STEWART PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "ALEXANDER STEWART",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 30.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.43042,
+      "lng": -76.498637
+    }
+  },
+  {
+    "slug": "alfredbog",
+    "officialName": "ALFRED BOG PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "ALFRED BOG",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2023,
+    "regulatedAreaHa": 3208.0,
+    "cluster": "Voyageur Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.503619,
+      "lng": -74.823473
+    }
+  },
+  {
+    "slug": "algomaheadwaters",
+    "officialName": "ALGOMA HEADWATERS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "ALGOMA HEADWATERS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 43361.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.185194,
+      "lng": -83.724187
+    }
+  },
+  {
+    "slug": "algonquin",
+    "officialName": "ALGONQUIN PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "ALGONQUIN",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1893,
+    "regulatedAreaHa": 772300.0,
+    "cluster": "Algonquin Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.763186,
+      "lng": -78.401241
+    }
+  },
+  {
+    "slug": "amabledufond",
+    "officialName": "AMABLE DU FOND RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "AMABLE DU FOND",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 731.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.225825,
+      "lng": -78.922367
+    }
+  },
+  {
+    "slug": "arrowhead",
+    "officialName": "ARROWHEAD PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "ARROWHEAD",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 1237.0,
+    "cluster": "Arrowhead Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.382783,
+      "lng": -79.199213
+    }
+  },
+  {
+    "slug": "arrowheadpeninsula",
+    "officialName": "ARROWHEAD PENINSULA PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "ARROWHEAD PENINSULA",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 815.3,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.253739,
+      "lng": -90.660848
+    }
+  },
+  {
+    "slug": "arrowlake",
+    "officialName": "ARROW LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "ARROW LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 386.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.173372,
+      "lng": -90.224244
+    }
+  },
+  {
+    "slug": "aubinadongnushatogainirivers",
+    "officialName": "AUBINADONG-NUSHATOGAINI RIVERS PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "AUBINADONG-NUSHATOGAINI RIVERS",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 4928.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.070242,
+      "lng": -83.501737
+    }
+  },
+  {
+    "slug": "aubinadongriver",
+    "officialName": "AUBINADONG RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "AUBINADONG RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 2722.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.027268,
+      "lng": -83.350135
+    }
+  },
+  {
+    "slug": "aubreyfalls",
+    "officialName": "AUBREY FALLS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "AUBREY FALLS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 4860.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.954364,
+      "lng": -83.195092
+    }
+  },
+  {
+    "slug": "awenda",
+    "officialName": "AWENDA PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "AWENDA",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1975,
+    "regulatedAreaHa": 3293.0,
+    "cluster": "Awenda Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.896886,
+      "lng": -79.998715
+    }
+  },
+  {
+    "slug": "balsamlake",
+    "officialName": "BALSAM LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "BALSAM LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1968,
+    "regulatedAreaHa": 448.81,
+    "cluster": "Balsam Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.619722,
+      "lng": -78.851542
+    }
+  },
+  {
+    "slug": "barronriver",
+    "officialName": "BARRON RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BARRON RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 539.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.866755,
+      "lng": -77.452148
+    }
+  },
+  {
+    "slug": "basslake",
+    "officialName": "BASS LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "BASS LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 247.0,
+    "cluster": "Bass Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.594086,
+      "lng": -79.511385
+    }
+  },
+  {
+    "slug": "batchawanabay",
+    "officialName": "BATCHAWANA BAY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "BATCHAWANA BAY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1973,
+    "regulatedAreaHa": 172.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.943856,
+      "lng": -84.558512
+    }
+  },
+  {
+    "slug": "batchawanariver",
+    "officialName": "BATCHAWANA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BATCHAWANA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2004,
+    "regulatedAreaHa": 2684.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.084329,
+      "lng": -84.412666
+    }
+  },
+  {
+    "slug": "bayviewescarpment",
+    "officialName": "BAYVIEW ESCARPMENT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "BAYVIEW ESCARPMENT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 612.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.632779,
+      "lng": -80.706776
+    }
+  },
+  {
+    "slug": "beattiepinery",
+    "officialName": "BEATTIE PINERY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "BEATTIE PINERY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 68.08,
+    "cluster": "Earl Rowe Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.12398,
+      "lng": -79.857688
+    }
+  },
+  {
+    "slug": "beekahncheekahmeengdeebahncheekayweehneenahohnahnuhn",
+    "officialName": "BEEKAHNCHEEKAHMEENG DEEBAHNCHEEKAYWEEHN EENAHOHNAHNUHN",
+    "shortName": "BEEKAHNCHEEKAHMEENG DEEBAHNCHEEKAYWEEHN EENAHOHNAHNUHN",
+    "type": "Protected Area - Far North",
+    "classification": "Unclassified",
+    "operating": false,
+    "yearEstablished": 2011,
+    "regulatedAreaHa": 99576.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.722881,
+      "lng": -93.418772
+    }
+  },
+  {
+    "slug": "bellbay",
+    "officialName": "BELL BAY PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BELL BAY",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 558.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.505065,
+      "lng": -77.825975
+    }
+  },
+  {
+    "slug": "bigeastriver",
+    "officialName": "BIG EAST RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BIG EAST RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2000,
+    "regulatedAreaHa": 1050.0,
+    "cluster": "Arrowhead Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.426281,
+      "lng": -79.118177
+    }
+  },
+  {
+    "slug": "bigwindlake",
+    "officialName": "BIGWIND LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BIGWIND LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1967.0,
+    "cluster": "Arrowhead Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.062777,
+      "lng": -79.044332
+    }
+  },
+  {
+    "slug": "biscotasilake",
+    "officialName": "BISCOTASI LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BISCOTASI LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 12283.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.367937,
+      "lng": -82.022919
+    }
+  },
+  {
+    "slug": "bissettcreek",
+    "officialName": "BISSETT CREEK PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BISSETT CREEK",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 1676.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.171723,
+      "lng": -78.149035
+    }
+  },
+  {
+    "slug": "blackcreek",
+    "officialName": "BLACK CREEK PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BLACK CREEK",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 335.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.968656,
+      "lng": -81.371858
+    }
+  },
+  {
+    "slug": "blacksturgeonriver",
+    "officialName": "BLACK STURGEON RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BLACK STURGEON RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 24097.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.283333,
+      "lng": -88.756828
+    }
+  },
+  {
+    "slug": "blindriver",
+    "officialName": "BLIND RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BLIND RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 5402.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.502148,
+      "lng": -82.917011
+    }
+  },
+  {
+    "slug": "bluejaycreek",
+    "officialName": "BLUE JAY CREEK PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BLUE JAY CREEK",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 245.7,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.593989,
+      "lng": -82.086651
+    }
+  },
+  {
+    "slug": "bluelake",
+    "officialName": "BLUE LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BLUE LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1960,
+    "regulatedAreaHa": 2314.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.908489,
+      "lng": -93.535397
+    }
+  },
+  {
+    "slug": "bonecho",
+    "officialName": "BON ECHO PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BON ECHO",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 8298.0,
+    "cluster": "Bon Echo Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.893925,
+      "lng": -77.178574
+    }
+  },
+  {
+    "slug": "bonheurriverkame",
+    "officialName": "BONHEUR RIVER KAME PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "BONHEUR RIVER KAME",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 800.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.399467,
+      "lng": -91.220136
+    }
+  },
+  {
+    "slug": "bonnechere",
+    "officialName": "BONNECHERE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "BONNECHERE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 162.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.659195,
+      "lng": -77.571847
+    }
+  },
+  {
+    "slug": "bonnechereriver",
+    "officialName": "BONNECHERE RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BONNECHERE RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 1198.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.674773,
+      "lng": -77.640503
+    }
+  },
+  {
+    "slug": "bonnechreriveraddition",
+    "officialName": "BONNECHÈRE RIVER PROVINCIAL PARK (WATERWAY CLASS) ADDITION",
+    "shortName": "BONNECHÈRE RIVER ADDITION",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 20.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.696471,
+      "lng": -77.744539
+    }
+  },
+  {
+    "slug": "boynevalley",
+    "officialName": "BOYNE VALLEY PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "BOYNE VALLEY",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 929.0,
+    "cluster": "Earl Rowe Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.107047,
+      "lng": -80.142071
+    }
+  },
+  {
+    "slug": "brightsandriver",
+    "officialName": "BRIGHTSAND RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "BRIGHTSAND RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 41250.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.877957,
+      "lng": -90.296001
+    }
+  },
+  {
+    "slug": "brockvillelongswampfen",
+    "officialName": "BROCKVILLE LONG SWAMP FEN PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "BROCKVILLE LONG SWAMP FEN",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2017,
+    "regulatedAreaHa": 218.0,
+    "cluster": "Charleston Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.702412,
+      "lng": -75.734622
+    }
+  },
+  {
+    "slug": "brontecreek",
+    "officialName": "BRONTE CREEK PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "BRONTE CREEK",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1975,
+    "regulatedAreaHa": 682.0,
+    "cluster": "Bronte Creek Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.412105,
+      "lng": -79.771244
+    }
+  },
+  {
+    "slug": "burntlands",
+    "officialName": "BURNT LANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "BURNT LANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 516.0,
+    "cluster": "Fitzroy Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.264705,
+      "lng": -76.163322
+    }
+  },
+  {
+    "slug": "butlerlake",
+    "officialName": "BUTLER LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "BUTLER LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 3400.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.70842,
+      "lng": -92.727476
+    }
+  },
+  {
+    "slug": "cabothead",
+    "officialName": "CABOT HEAD PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CABOT HEAD",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 4514.08,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.229529,
+      "lng": -81.417791
+    }
+  },
+  {
+    "slug": "caliperlake",
+    "officialName": "CALIPER LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "CALIPER LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1960,
+    "regulatedAreaHa": 147.35,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.059034,
+      "lng": -93.907354
+    }
+  },
+  {
+    "slug": "cardenalvar",
+    "officialName": "CARDEN ALVAR PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "CARDEN ALVAR",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2014,
+    "regulatedAreaHa": 1917.0,
+    "cluster": "Bass Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.623905,
+      "lng": -79.040499
+    }
+  },
+  {
+    "slug": "carsonlake",
+    "officialName": "CARSON LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "CARSON LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 11.92,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.501529,
+      "lng": -77.746416
+    }
+  },
+  {
+    "slug": "castlecreek",
+    "officialName": "CASTLE CREEK PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CASTLE CREEK",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1075.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.208389,
+      "lng": -90.064107
+    }
+  },
+  {
+    "slug": "cavernlake",
+    "officialName": "CAVERN LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CAVERN LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1975,
+    "regulatedAreaHa": 188.99,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.836226,
+      "lng": -88.683397
+    }
+  },
+  {
+    "slug": "cedarcreek",
+    "officialName": "CEDAR CREEK PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CEDAR CREEK",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2014,
+    "regulatedAreaHa": 70.0,
+    "cluster": "Wheatley Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.037515,
+      "lng": -82.832789
+    }
+  },
+  {
+    "slug": "centenniallake",
+    "officialName": "CENTENNIAL LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CENTENNIAL LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 530.0,
+    "cluster": "Bon Echo Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.212906,
+      "lng": -76.979619
+    }
+  },
+  {
+    "slug": "chapleaunemegosendarivers",
+    "officialName": "CHAPLEAU-NEMEGOSENDA RIVERS PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "CHAPLEAU-NEMEGOSENDA RIVERS",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1973,
+    "regulatedAreaHa": 21952.0,
+    "cluster": "Chapleau West Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.22796,
+      "lng": -83.060292
+    }
+  },
+  {
+    "slug": "charlestonlake",
+    "officialName": "CHARLESTON LAKE PROVINCIAL PARK (ADVENTURE CLASS)",
+    "shortName": "CHARLESTON LAKE",
+    "type": "Provincial Park",
+    "classification": "Adventure",
+    "operating": true,
+    "yearEstablished": 1976,
+    "regulatedAreaHa": 2880.0,
+    "cluster": "Charleston Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.53336,
+      "lng": -76.035145
+    }
+  },
+  {
+    "slug": "chiniguchiwaterway",
+    "officialName": "CHINIGUCHI WATERWAY PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "CHINIGUCHI WATERWAY",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 9368.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.797393,
+      "lng": -80.510594
+    }
+  },
+  {
+    "slug": "chutes",
+    "officialName": "CHUTES PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "CHUTES",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 109.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.219969,
+      "lng": -82.072043
+    }
+  },
+  {
+    "slug": "clearcreekforest",
+    "officialName": "CLEAR CREEK FOREST PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CLEAR CREEK FOREST",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2014,
+    "regulatedAreaHa": 402.0,
+    "cluster": "Rondeau Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.465962,
+      "lng": -81.715805
+    }
+  },
+  {
+    "slug": "cockburnislandaddition",
+    "officialName": "COCKBURN ISLAND ADDITION PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "COCKBURN ISLAND ADDITION",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2026,
+    "regulatedAreaHa": 177.0,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.890132,
+      "lng": -83.477433
+    }
+  },
+  {
+    "slug": "coralrapids",
+    "officialName": "CORAL RAPIDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CORAL RAPIDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 12.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.27039,
+      "lng": -81.642628
+    }
+  },
+  {
+    "slug": "craigleith",
+    "officialName": "CRAIGLEITH PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "CRAIGLEITH",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 67.0,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.534451,
+      "lng": -80.348511
+    }
+  },
+  {
+    "slug": "craigspit",
+    "officialName": "CRAIG'S PIT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CRAIG'S PIT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 530.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.679396,
+      "lng": -86.34785
+    }
+  },
+  {
+    "slug": "cranberrylake",
+    "officialName": "CRANBERRY LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "CRANBERRY LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 2800.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.854167,
+      "lng": -94.365567
+    }
+  },
+  {
+    "slug": "daisylakeuplands",
+    "officialName": "DAISY LAKE UPLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DAISY LAKE UPLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 600.0,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.454786,
+      "lng": -80.883725
+    }
+  },
+  {
+    "slug": "danajowseylakes",
+    "officialName": "DANA-JOWSEY LAKES PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "DANA-JOWSEY LAKES",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 8794.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.322314,
+      "lng": -81.838841
+    }
+  },
+  {
+    "slug": "darlington",
+    "officialName": "DARLINGTON PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "DARLINGTON",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1959,
+    "regulatedAreaHa": 208.82,
+    "cluster": "Darlington Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.87428,
+      "lng": -78.790715
+    }
+  },
+  {
+    "slug": "devilsglen",
+    "officialName": "DEVIL'S GLEN PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "DEVIL'S GLEN",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1965,
+    "regulatedAreaHa": 79.0,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.358014,
+      "lng": -80.217063
+    }
+  },
+  {
+    "slug": "devonroadmesa",
+    "officialName": "DEVON ROAD MESA PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DEVON ROAD MESA",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 60.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.048843,
+      "lng": -89.671053
+    }
+  },
+  {
+    "slug": "divideridge",
+    "officialName": "DIVIDE RIDGE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DIVIDE RIDGE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 542.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.262709,
+      "lng": -89.979653
+    }
+  },
+  {
+    "slug": "dividinglake",
+    "officialName": "DIVIDING LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DIVIDING LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 469.0,
+    "cluster": "Arrowhead Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.392434,
+      "lng": -78.614311
+    }
+  },
+  {
+    "slug": "driftwood",
+    "officialName": "DRIFTWOOD PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "DRIFTWOOD",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 422.3,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.194681,
+      "lng": -77.857644
+    }
+  },
+  {
+    "slug": "duclospoint",
+    "officialName": "DUCLOS POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DUCLOS POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 111.0,
+    "cluster": "Sibbald Point Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.336369,
+      "lng": -79.240835
+    }
+  },
+  {
+    "slug": "duncanescarpment",
+    "officialName": "DUNCAN ESCARPMENT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DUNCAN ESCARPMENT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 287.0,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.423706,
+      "lng": -80.45717
+    }
+  },
+  {
+    "slug": "dupont",
+    "officialName": "DUPONT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "DUPONT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2011,
+    "regulatedAreaHa": 614.0,
+    "cluster": "Voyageur Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.9143,
+      "lng": -75.140059
+    }
+  },
+  {
+    "slug": "eagledogtooth",
+    "officialName": "EAGLE-DOGTOOTH PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "EAGLE-DOGTOOTH",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 41128.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.683714,
+      "lng": -93.462686
+    }
+  },
+  {
+    "slug": "earlrowe",
+    "officialName": "EARL ROWE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "EARL ROWE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1964,
+    "regulatedAreaHa": 312.42,
+    "cluster": "Earl Rowe Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.155474,
+      "lng": -79.895327
+    }
+  },
+  {
+    "slug": "eastenglishriver",
+    "officialName": "EAST ENGLISH RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "EAST ENGLISH RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 17513.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.784572,
+      "lng": -91.536523
+    }
+  },
+  {
+    "slug": "eastsisterisland",
+    "officialName": "EAST SISTER ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "EAST SISTER ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1976,
+    "regulatedAreaHa": 53.02,
+    "cluster": "Wheatley Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 41.812927,
+      "lng": -82.856219
+    }
+  },
+  {
+    "slug": "edwardisland",
+    "officialName": "EDWARD ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "EDWARD ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 600.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.375891,
+      "lng": -88.646445
+    }
+  },
+  {
+    "slug": "eganchutes",
+    "officialName": "EGAN CHUTES PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "EGAN CHUTES",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 322.0,
+    "cluster": "Silent Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.07527,
+      "lng": -77.738717
+    }
+  },
+  {
+    "slug": "eganchutesadditions",
+    "officialName": "EGAN CHUTES PROVINCIAL PARK ADDITION (WATERWAY CLASS)",
+    "shortName": "EGAN CHUTES ADDITIONS",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2005,
+    "regulatedAreaHa": 778.0,
+    "cluster": "Silent Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.155615,
+      "lng": -77.72525
+    }
+  },
+  {
+    "slug": "emily",
+    "officialName": "EMILY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "EMILY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 113.0,
+    "cluster": "Emily Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.332437,
+      "lng": -78.538261
+    }
+  },
+  {
+    "slug": "englehartriverfinesandplainandwaterway",
+    "officialName": "ENGLEHART RIVER FINE SAND PLAIN AND WATERWAY PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "ENGLEHART RIVER FINE SAND PLAIN AND WATERWAY",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 4102.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.847336,
+      "lng": -80.170522
+    }
+  },
+  {
+    "slug": "eskerlakes",
+    "officialName": "ESKER LAKES PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "ESKER LAKES",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 6529.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.264695,
+      "lng": -79.933492
+    }
+  },
+  {
+    "slug": "fairbank",
+    "officialName": "FAIRBANK PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FAIRBANK",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 105.22,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.472894,
+      "lng": -81.439202
+    }
+  },
+  {
+    "slug": "fawnriver",
+    "officialName": "FAWN RIVER PROVINCIAL PARK",
+    "shortName": "FAWN RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 12134.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 53.848402,
+      "lng": -90.029761
+    }
+  },
+  {
+    "slug": "ferris",
+    "officialName": "FERRIS PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FERRIS",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 216.0,
+    "cluster": "Presqu'ile Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.29161,
+      "lng": -77.796542
+    }
+  },
+  {
+    "slug": "finlaysonpoint",
+    "officialName": "FINLAYSON POINT PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FINLAYSON POINT",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 47.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.054688,
+      "lng": -79.806653
+    }
+  },
+  {
+    "slug": "fishpoint",
+    "officialName": "FISH POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "FISH POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 109.78,
+    "cluster": "Wheatley Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 41.733247,
+      "lng": -82.674406
+    }
+  },
+  {
+    "slug": "fitzroy",
+    "officialName": "FITZROY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FITZROY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 198.4,
+    "cluster": "Fitzroy Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.480561,
+      "lng": -76.224675
+    }
+  },
+  {
+    "slug": "fivemilelake",
+    "officialName": "FIVE MILE LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FIVE MILE LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 456.5,
+    "cluster": "Chapleau East Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.568038,
+      "lng": -83.220083
+    }
+  },
+  {
+    "slug": "forksofthecredit",
+    "officialName": "FORKS OF THE CREDIT PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "FORKS OF THE CREDIT",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 289.0,
+    "cluster": "Earl Rowe Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.816073,
+      "lng": -80.013224
+    }
+  },
+  {
+    "slug": "foyproperty",
+    "officialName": "FOY PROPERTY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FOY PROPERTY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 147.3,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.653698,
+      "lng": -77.509149
+    }
+  },
+  {
+    "slug": "fraleighlake",
+    "officialName": "FRALEIGH LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "FRALEIGH LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 825.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.200027,
+      "lng": -89.85278
+    }
+  },
+  {
+    "slug": "frederickhouselake",
+    "officialName": "FREDERICK HOUSE LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "FREDERICK HOUSE LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 13.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.681547,
+      "lng": -80.963819
+    }
+  },
+  {
+    "slug": "frenchriver",
+    "officialName": "FRENCH RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "FRENCH RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 73521.0,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.086215,
+      "lng": -80.264882
+    }
+  },
+  {
+    "slug": "frontenac",
+    "officialName": "FRONTENAC PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "FRONTENAC",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1974,
+    "regulatedAreaHa": 5350.0,
+    "cluster": "Frontenac Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.540777,
+      "lng": -76.513464
+    }
+  },
+  {
+    "slug": "fushimilake",
+    "officialName": "FUSHIMI LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "FUSHIMI LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1979,
+    "regulatedAreaHa": 5294.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.832784,
+      "lng": -83.933724
+    }
+  },
+  {
+    "slug": "gemlakemaplebedrock",
+    "officialName": "GEM LAKE MAPLE BEDROCK PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "GEM LAKE MAPLE BEDROCK",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 90.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.164961,
+      "lng": -79.667665
+    }
+  },
+  {
+    "slug": "gibsonriver",
+    "officialName": "GIBSON RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "GIBSON RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1968,
+    "regulatedAreaHa": 333.0,
+    "cluster": "Six Mile Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.945169,
+      "lng": -79.699246
+    }
+  },
+  {
+    "slug": "gooseisland",
+    "officialName": "GOOSE ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "GOOSE ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2008,
+    "regulatedAreaHa": 72.0,
+    "cluster": "Quetico Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.66625,
+      "lng": -93.168152
+    }
+  },
+  {
+    "slug": "goulaisriver",
+    "officialName": "GOULAIS RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "GOULAIS RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 5086.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.965017,
+      "lng": -83.898587
+    }
+  },
+  {
+    "slug": "grantscreek",
+    "officialName": "GRANT'S CREEK PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "GRANT'S CREEK",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 1444.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.160705,
+      "lng": -77.983145
+    }
+  },
+  {
+    "slug": "grassyrivermondlakelowlandsandferrislakeuplands",
+    "officialName": "GRASSY RIVER-MOND LAKE LOWLANDS AND FERRIS LAKE UPLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "GRASSY RIVER-MOND LAKE LOWLANDS AND FERRIS LAKE UPLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2005,
+    "regulatedAreaHa": 2602.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.804888,
+      "lng": -81.149794
+    }
+  },
+  {
+    "slug": "gravelriver",
+    "officialName": "GRAVEL RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "GRAVEL RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 763.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.90911,
+      "lng": -87.758628
+    }
+  },
+  {
+    "slug": "greenwater",
+    "officialName": "GREENWATER PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "GREENWATER",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 8504.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.216867,
+      "lng": -81.309529
+    }
+  },
+  {
+    "slug": "groundhogriverwaterway",
+    "officialName": "GROUNDHOG RIVER WATERWAY PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "GROUNDHOG RIVER WATERWAY",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 11036.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.964651,
+      "lng": -82.079662
+    }
+  },
+  {
+    "slug": "grundylake",
+    "officialName": "GRUNDY LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "GRUNDY LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1959,
+    "regulatedAreaHa": 3604.0,
+    "cluster": "Grundy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.951593,
+      "lng": -80.526873
+    }
+  },
+  {
+    "slug": "gullriver",
+    "officialName": "GULL RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "GULL RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 7194.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.675766,
+      "lng": -89.411414
+    }
+  },
+  {
+    "slug": "halfwaylake",
+    "officialName": "HALFWAY LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "HALFWAY LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 5142.0,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.882284,
+      "lng": -81.669084
+    }
+  },
+  {
+    "slug": "hardylake",
+    "officialName": "HARDY LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "HARDY LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 808.0,
+    "cluster": "Six Mile Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.015082,
+      "lng": -79.521713
+    }
+  },
+  {
+    "slug": "haymarsh",
+    "officialName": "HAY MARSH PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "HAY MARSH",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2026,
+    "regulatedAreaHa": 195.0,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.127302,
+      "lng": -83.992791
+    }
+  },
+  {
+    "slug": "hicksokebog",
+    "officialName": "HICKS-OKE BOG PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "HICKS-OKE BOG",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1994,
+    "regulatedAreaHa": 5880.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.902563,
+      "lng": -82.065984
+    }
+  },
+  {
+    "slug": "hockleyvalley",
+    "officialName": "HOCKLEY VALLEY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "HOCKLEY VALLEY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 505.0,
+    "cluster": "Earl Rowe Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.988958,
+      "lng": -80.06551
+    }
+  },
+  {
+    "slug": "hollandlandingprairie",
+    "officialName": "HOLLAND LANDING PRAIRIE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "HOLLAND LANDING PRAIRIE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1994,
+    "regulatedAreaHa": 34.2,
+    "cluster": "Sibbald Point Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.121449,
+      "lng": -79.491254
+    }
+  },
+  {
+    "slug": "hopebayforest",
+    "officialName": "HOPE BAY FOREST PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "HOPE BAY FOREST",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 353.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.923295,
+      "lng": -81.149535
+    }
+  },
+  {
+    "slug": "indianpoint",
+    "officialName": "INDIAN POINT PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "INDIAN POINT",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 947.0,
+    "cluster": "Balsam Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.628662,
+      "lng": -78.818909
+    }
+  },
+  {
+    "slug": "inverhuron",
+    "officialName": "INVERHURON PROVINCIAL PARK (CULTURAL HERITAGE CLASS)",
+    "shortName": "INVERHURON",
+    "type": "Provincial Park",
+    "classification": "Cultural Heritage",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 288.1,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.300676,
+      "lng": -81.599232
+    }
+  },
+  {
+    "slug": "iralake",
+    "officialName": "IRA LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "IRA LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 30.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.04045,
+      "lng": -81.364281
+    }
+  },
+  {
+    "slug": "ivanhoelake",
+    "officialName": "IVANHOE LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "IVANHOE LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 7705.0,
+    "cluster": "Chapleau East Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.880556,
+      "lng": -82.822993
+    }
+  },
+  {
+    "slug": "jalbertbauer",
+    "officialName": "J. ALBERT BAUER PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "J. ALBERT BAUER",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 164.0,
+    "cluster": "Arrowhead Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.402587,
+      "lng": -79.014851
+    }
+  },
+  {
+    "slug": "jamesnallan",
+    "officialName": "JAMES N. ALLAN PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "JAMES N. ALLAN",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 117.0,
+    "cluster": "Bronte Creek Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.846775,
+      "lng": -79.661057
+    }
+  },
+  {
+    "slug": "jockorivers",
+    "officialName": "JOCKO RIVERS PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "JOCKO RIVERS",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 11299.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.631728,
+      "lng": -79.275921
+    }
+  },
+  {
+    "slug": "johnepearce",
+    "officialName": "JOHN E. PEARCE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "JOHN E. PEARCE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 67.99,
+    "cluster": "Port Burwell Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.605227,
+      "lng": -81.443189
+    }
+  },
+  {
+    "slug": "johnstonharbourpinetreepoint",
+    "officialName": "JOHNSTON HARBOUR-PINE TREE POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "JOHNSTON HARBOUR-PINE TREE POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 929.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.104169,
+      "lng": -81.522917
+    }
+  },
+  {
+    "slug": "kabitotikwiariver",
+    "officialName": "KABITOTIKWIA RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "KABITOTIKWIA RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1965.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.739035,
+      "lng": -89.096543
+    }
+  },
+  {
+    "slug": "kahnahmaykoosayseekahk",
+    "officialName": "KAHNAHMAYKOOSAYSEEKAHK",
+    "shortName": "KAHNAHMAYKOOSAYSEEKAHK",
+    "type": "Protected Area - Far North",
+    "classification": "Unclassified",
+    "operating": false,
+    "yearEstablished": 2011,
+    "regulatedAreaHa": 4815.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.331531,
+      "lng": -94.124608
+    }
+  },
+  {
+    "slug": "kaiashk",
+    "officialName": "KAIASHK PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "KAIASHK",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 780.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.528598,
+      "lng": -89.445751
+    }
+  },
+  {
+    "slug": "kakabekafalls",
+    "officialName": "KAKABEKA FALLS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KAKABEKA FALLS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 500.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.402618,
+      "lng": -89.628246
+    }
+  },
+  {
+    "slug": "kamahills",
+    "officialName": "KAMA HILLS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "KAMA HILLS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.012046,
+      "lng": -88.006096
+    }
+  },
+  {
+    "slug": "kapkigiwan",
+    "officialName": "KAP-KIG-IWAN PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KAP-KIG-IWAN",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 461.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.79933,
+      "lng": -79.892314
+    }
+  },
+  {
+    "slug": "kashabowie",
+    "officialName": "KASHABOWIE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KASHABOWIE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 2055.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.684866,
+      "lng": -90.371098
+    }
+  },
+  {
+    "slug": "kawarthahighlands",
+    "officialName": "KAWARTHA HIGHLANDS SIGNATURE SITE PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KAWARTHA HIGHLANDS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 37587.0,
+    "cluster": "Kawartha Highlands Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.71469,
+      "lng": -78.229911
+    }
+  },
+  {
+    "slug": "kennyforest",
+    "officialName": "KENNY FOREST PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KENNY FOREST",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1994,
+    "regulatedAreaHa": 2200.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.727852,
+      "lng": -79.703703
+    }
+  },
+  {
+    "slug": "kesagami",
+    "officialName": "KESAGAMI PROVINCIAL PARK",
+    "shortName": "KESAGAMI",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": false,
+    "yearEstablished": 1983,
+    "regulatedAreaHa": 55977.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.758746,
+      "lng": -79.967889
+    }
+  },
+  {
+    "slug": "kettlelakes",
+    "officialName": "KETTLE LAKES PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "KETTLE LAKES",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 1260.79,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.572495,
+      "lng": -80.880477
+    }
+  },
+  {
+    "slug": "killarney",
+    "officialName": "KILLARNEY PROVINCIAL PARK (WILDERNESS CLASS)",
+    "shortName": "KILLARNEY",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": true,
+    "yearEstablished": 1964,
+    "regulatedAreaHa": 49325.0,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.077356,
+      "lng": -81.426023
+    }
+  },
+  {
+    "slug": "killarneylakelandsandheadwaters",
+    "officialName": "KILLARNEY LAKELANDS AND HEADWATERS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KILLARNEY LAKELANDS AND HEADWATERS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 15346.0,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.184441,
+      "lng": -81.416338
+    }
+  },
+  {
+    "slug": "killbear",
+    "officialName": "KILLBEAR PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KILLBEAR",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 1882.0,
+    "cluster": "Killbear Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.348707,
+      "lng": -80.216707
+    }
+  },
+  {
+    "slug": "komoka",
+    "officialName": "KOMOKA PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "KOMOKA",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 321.0,
+    "cluster": "Port Burwell Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.943277,
+      "lng": -81.406691
+    }
+  },
+  {
+    "slug": "kopkariver",
+    "officialName": "KOPKA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "KOPKA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 31303.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.998541,
+      "lng": -89.580298
+    }
+  },
+  {
+    "slug": "lacloche",
+    "officialName": "LA CLOCHE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "LA CLOCHE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 7448.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.11956,
+      "lng": -82.035131
+    }
+  },
+  {
+    "slug": "ladyevelynsmoothwater",
+    "officialName": "LADY EVELYN-SMOOTHWATER PROVINCIAL PARK (WILDERNESS CLASS)",
+    "shortName": "LADY EVELYN-SMOOTHWATER",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": true,
+    "yearEstablished": 1973,
+    "regulatedAreaHa": 72400.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.309965,
+      "lng": -80.409699
+    }
+  },
+  {
+    "slug": "lakeabitibiislands",
+    "officialName": "LAKE ABITIBI ISLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LAKE ABITIBI ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2005,
+    "regulatedAreaHa": 2721.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.733039,
+      "lng": -79.776653
+    }
+  },
+  {
+    "slug": "lakenipigon",
+    "officialName": "LAKE NIPIGON PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "LAKE NIPIGON",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1960,
+    "regulatedAreaHa": 918.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.478964,
+      "lng": -88.158067
+    }
+  },
+  {
+    "slug": "lakeofthewoods",
+    "officialName": "LAKE OF THE WOODS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "LAKE OF THE WOODS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 20675.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.353758,
+      "lng": -94.685255
+    }
+  },
+  {
+    "slug": "lakeonthemountainpicnicgrounds",
+    "officialName": "LAKE ON THE MOUNTAIN PROVINCIAL PICNIC GROUNDS (RECREATIONAL CLASS)",
+    "shortName": "LAKE ON THE MOUNTAIN PICNIC GROUNDS",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 103.6,
+    "cluster": "Sandbanks Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.0354,
+      "lng": -77.058486
+    }
+  },
+  {
+    "slug": "lakestpeter",
+    "officialName": "LAKE ST. PETER PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "LAKE ST. PETER",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 478.16,
+    "cluster": "Silent Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.329728,
+      "lng": -78.021968
+    }
+  },
+  {
+    "slug": "lakesuperior",
+    "officialName": "LAKE SUPERIOR PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "LAKE SUPERIOR",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1944,
+    "regulatedAreaHa": 160810.0,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.46541,
+      "lng": -84.786453
+    }
+  },
+  {
+    "slug": "lamottelake",
+    "officialName": "LA MOTTE LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "LA MOTTE LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 575.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.742594,
+      "lng": -81.642975
+    }
+  },
+  {
+    "slug": "larderriver",
+    "officialName": "LARDER RIVER WATERWAY PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "LARDER RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 4044.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.943022,
+      "lng": -79.64322
+    }
+  },
+  {
+    "slug": "laverendrye",
+    "officialName": "LAVERENDRYE PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "LAVERENDRYE",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 18280.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.139409,
+      "lng": -90.43331
+    }
+  },
+  {
+    "slug": "lighthousepoint",
+    "officialName": "LIGHTHOUSE POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LIGHTHOUSE POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 96.0,
+    "cluster": "Wheatley Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 41.828807,
+      "lng": -82.640912
+    }
+  },
+  {
+    "slug": "limestoneislands",
+    "officialName": "LIMESTONE ISLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LIMESTONE ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1980,
+    "regulatedAreaHa": 450.0,
+    "cluster": "Killbear Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.398908,
+      "lng": -80.531499
+    }
+  },
+  {
+    "slug": "lionshead",
+    "officialName": "LION'S HEAD PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LION'S HEAD",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 526.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.993501,
+      "lng": -81.21235
+    }
+  },
+  {
+    "slug": "littleabitibi",
+    "officialName": "LITTLE ABITIBI PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "LITTLE ABITIBI",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 20733.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.822774,
+      "lng": -81.160553
+    }
+  },
+  {
+    "slug": "littlecove",
+    "officialName": "LITTLE COVE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LITTLE COVE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 15.78,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.248506,
+      "lng": -81.610964
+    }
+  },
+  {
+    "slug": "littlecurrentriver",
+    "officialName": "LITTLE CURRENT RIVER PROVINCIAL PARK",
+    "shortName": "LITTLE CURRENT RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 9930.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.729664,
+      "lng": -86.18692
+    }
+  },
+  {
+    "slug": "littlegreenwaterlake",
+    "officialName": "LITTLE GREENWATER LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LITTLE GREENWATER LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 244.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.545321,
+      "lng": -90.446741
+    }
+  },
+  {
+    "slug": "littlewhiteriver",
+    "officialName": "LITTLE WHITE RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "LITTLE WHITE RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 12782.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.593982,
+      "lng": -83.0771
+    }
+  },
+  {
+    "slug": "livingstonepoint",
+    "officialName": "LIVINGSTONE POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LIVINGSTONE POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1800.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.908127,
+      "lng": -88.127811
+    }
+  },
+  {
+    "slug": "lolalake",
+    "officialName": "LOLA LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "LOLA LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 6572.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.813534,
+      "lng": -92.558451
+    }
+  },
+  {
+    "slug": "longpoint",
+    "officialName": "LONG POINT PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "LONG POINT",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1921,
+    "regulatedAreaHa": 150.0,
+    "cluster": "Turkey Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.57911,
+      "lng": -80.399739
+    }
+  },
+  {
+    "slug": "lowermadawaskariver",
+    "officialName": "LOWER MADAWASKA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "LOWER MADAWASKA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 1200.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.239131,
+      "lng": -77.292507
+    }
+  },
+  {
+    "slug": "macgregorpoint",
+    "officialName": "MACGREGOR POINT PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MACGREGOR POINT",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1975,
+    "regulatedAreaHa": 1492.0,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.410221,
+      "lng": -81.485112
+    }
+  },
+  {
+    "slug": "macleod",
+    "officialName": "MACLEOD PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "MACLEOD",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 74.06,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.688302,
+      "lng": -86.894251
+    }
+  },
+  {
+    "slug": "macmurchytownshipendmoraine",
+    "officialName": "MACMURCHY TOWNSHIP END MORAINE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MACMURCHY TOWNSHIP END MORAINE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 239.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.605486,
+      "lng": -81.14172
+    }
+  },
+  {
+    "slug": "magnetawanriver",
+    "officialName": "MAGNETAWAN RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "MAGNETAWAN RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 3424.0,
+    "cluster": "Grundy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.722734,
+      "lng": -80.276293
+    }
+  },
+  {
+    "slug": "makobegraysriver",
+    "officialName": "MAKOBE-GRAYS RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "MAKOBE-GRAYS RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1427.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.621485,
+      "lng": -80.381632
+    }
+  },
+  {
+    "slug": "manitouislands",
+    "officialName": "MANITOU ISLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MANITOU ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 1925.8,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.26826,
+      "lng": -79.572068
+    }
+  },
+  {
+    "slug": "mara",
+    "officialName": "MARA PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "MARA",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 45.25,
+    "cluster": "Bass Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.586201,
+      "lng": -79.360881
+    }
+  },
+  {
+    "slug": "marksburnham",
+    "officialName": "MARK S. BURNHAM PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "MARK S. BURNHAM",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1955,
+    "regulatedAreaHa": 39.41,
+    "cluster": "Emily Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.299198,
+      "lng": -78.267993
+    }
+  },
+  {
+    "slug": "martenriver",
+    "officialName": "MARTEN RIVER PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "MARTEN RIVER",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1960,
+    "regulatedAreaHa": 400.25,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.720751,
+      "lng": -79.819304
+    }
+  },
+  {
+    "slug": "mashkinonje",
+    "officialName": "MASHKINONJE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MASHKINONJE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 2109.0,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.249148,
+      "lng": -80.341168
+    }
+  },
+  {
+    "slug": "matawatchan",
+    "officialName": "MATAWATCHAN PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MATAWATCHAN",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1968,
+    "regulatedAreaHa": 64.75,
+    "cluster": "Bon Echo Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.130044,
+      "lng": -77.139026
+    }
+  },
+  {
+    "slug": "matawinriver",
+    "officialName": "MATAWIN RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MATAWIN RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 2615.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.393252,
+      "lng": -90.116724
+    }
+  },
+  {
+    "slug": "matinenda",
+    "officialName": "MATINENDA PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MATINENDA",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 28758.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.357385,
+      "lng": -82.869925
+    }
+  },
+  {
+    "slug": "mattagamiriverbeachandaeoliandeposit",
+    "officialName": "MATTAGAMI RIVER BEACH AND AEOLIAN DEPOSIT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MATTAGAMI RIVER BEACH AND AEOLIAN DEPOSIT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 164.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.097821,
+      "lng": -82.200192
+    }
+  },
+  {
+    "slug": "mattawariver",
+    "officialName": "MATTAWA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "MATTAWA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 14142.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.304686,
+      "lng": -79.092289
+    }
+  },
+  {
+    "slug": "maynardlake",
+    "officialName": "MAYNARD LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MAYNARD LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 30.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.371114,
+      "lng": -93.879077
+    }
+  },
+  {
+    "slug": "mcraepoint",
+    "officialName": "MCRAE POINT PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "MCRAE POINT",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 137.6,
+    "cluster": "Bass Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.569423,
+      "lng": -79.331392
+    }
+  },
+  {
+    "slug": "menzelcentennial",
+    "officialName": "MENZEL CENTENNIAL PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MENZEL CENTENNIAL",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 914.0,
+    "cluster": "Sharbot Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.364414,
+      "lng": -77.12737
+    }
+  },
+  {
+    "slug": "michipicoten",
+    "officialName": "MICHIPICOTEN PROVINCIAL PARK (CULTURAL HERITAGE CLASS)",
+    "shortName": "MICHIPICOTEN",
+    "type": "Provincial Park",
+    "classification": "Cultural Heritage",
+    "operating": false,
+    "yearEstablished": 1982,
+    "regulatedAreaHa": 289.0,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.921028,
+      "lng": -84.830945
+    }
+  },
+  {
+    "slug": "michipicotenisland",
+    "officialName": "MICHIPICOTEN ISLAND PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MICHIPICOTEN ISLAND",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 36740.0,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.74155,
+      "lng": -85.767809
+    }
+  },
+  {
+    "slug": "mikisew",
+    "officialName": "MIKISEW PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "MIKISEW",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1964,
+    "regulatedAreaHa": 130.71,
+    "cluster": "Restoule Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.818337,
+      "lng": -79.511366
+    }
+  },
+  {
+    "slug": "minnitakikames",
+    "officialName": "MINNITAKI KAMES PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MINNITAKI KAMES",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 4422.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.906285,
+      "lng": -91.854199
+    }
+  },
+  {
+    "slug": "miserybay",
+    "officialName": "MISERY BAY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MISERY BAY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 1076.0,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.786933,
+      "lng": -82.730886
+    }
+  },
+  {
+    "slug": "missinaibi",
+    "officialName": "MISSINAIBI PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "MISSINAIBI",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 116110.0,
+    "cluster": "Chapleau West Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.558287,
+      "lng": -83.079453
+    }
+  },
+  {
+    "slug": "mississagi",
+    "officialName": "MISSISSAGI PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MISSISSAGI",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1973,
+    "regulatedAreaHa": 8328.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.619753,
+      "lng": -82.688835
+    }
+  },
+  {
+    "slug": "mississagidelta",
+    "officialName": "MISSISSAGI DELTA PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MISSISSAGI DELTA",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 2395.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.180796,
+      "lng": -83.057566
+    }
+  },
+  {
+    "slug": "mississagiriver",
+    "officialName": "MISSISSAGI RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "MISSISSAGI RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1974,
+    "regulatedAreaHa": 91247.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.952495,
+      "lng": -82.77307
+    }
+  },
+  {
+    "slug": "monocliffs",
+    "officialName": "MONO CLIFFS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MONO CLIFFS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 732.0,
+    "cluster": "Earl Rowe Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.038373,
+      "lng": -80.065904
+    }
+  },
+  {
+    "slug": "montrealriver",
+    "officialName": "MONTREAL RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MONTREAL RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1968,
+    "regulatedAreaHa": 43.7,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.219917,
+      "lng": -84.65959
+    }
+  },
+  {
+    "slug": "morristract",
+    "officialName": "MORRIS TRACT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "MORRIS TRACT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 58.7,
+    "cluster": "The Pinery Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.724631,
+      "lng": -81.643874
+    }
+  },
+  {
+    "slug": "murphyspoint",
+    "officialName": "MURPHYS POINT PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "MURPHYS POINT",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 1115.0,
+    "cluster": "Murphys Point Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.776442,
+      "lng": -76.224285
+    }
+  },
+  {
+    "slug": "nagagamilake",
+    "officialName": "NAGAGAMI LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "NAGAGAMI LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1650.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.43547,
+      "lng": -84.984764
+    }
+  },
+  {
+    "slug": "nagagamisis",
+    "officialName": "NAGAGAMISIS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "NAGAGAMISIS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 40683.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.765952,
+      "lng": -84.630615
+    }
+  },
+  {
+    "slug": "nakinamoraine",
+    "officialName": "NAKINA MORAINE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "NAKINA MORAINE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1994,
+    "regulatedAreaHa": 5319.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.108384,
+      "lng": -86.656369
+    }
+  },
+  {
+    "slug": "neys",
+    "officialName": "NEYS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "NEYS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1965,
+    "regulatedAreaHa": 5475.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.729233,
+      "lng": -86.585848
+    }
+  },
+  {
+    "slug": "nimoosh",
+    "officialName": "NIMOOSH PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "NIMOOSH",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 3550.0,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.044588,
+      "lng": -85.18437
+    }
+  },
+  {
+    "slug": "noganoshlake",
+    "officialName": "NOGANOSH LAKE PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "NOGANOSH LAKE",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 3082.0,
+    "cluster": "Grundy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.816121,
+      "lng": -80.248762
+    }
+  },
+  {
+    "slug": "noisyriver",
+    "officialName": "NOISY RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "NOISY RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 378.2,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.271194,
+      "lng": -80.196117
+    }
+  },
+  {
+    "slug": "northbeach",
+    "officialName": "NORTH BEACH PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "NORTH BEACH",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 94.0,
+    "cluster": "Sandbanks Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.956137,
+      "lng": -77.524265
+    }
+  },
+  {
+    "slug": "northchannelinshore",
+    "officialName": "NORTH CHANNEL INSHORE PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "NORTH CHANNEL INSHORE",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 3762.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.205978,
+      "lng": -83.186742
+    }
+  },
+  {
+    "slug": "northdriftwoodriver",
+    "officialName": "NORTH DRIFTWOOD RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "NORTH DRIFTWOOD RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 3.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.365961,
+      "lng": -81.310799
+    }
+  },
+  {
+    "slug": "nottawasagalookout",
+    "officialName": "NOTTAWASAGA LOOKOUT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "NOTTAWASAGA LOOKOUT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1994,
+    "regulatedAreaHa": 269.0,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.403269,
+      "lng": -80.248239
+    }
+  },
+  {
+    "slug": "oastlerlake",
+    "officialName": "OASTLER LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "OASTLER LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 31.56,
+    "cluster": "Oastler/Massasauga Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.313187,
+      "lng": -79.965214
+    }
+  },
+  {
+    "slug": "obabikariver",
+    "officialName": "OBABIKA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "OBABIKA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 20520.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.220445,
+      "lng": -80.287158
+    }
+  },
+  {
+    "slug": "obatanga",
+    "officialName": "OBATANGA PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "OBATANGA",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 9409.27,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.345637,
+      "lng": -85.065478
+    }
+  },
+  {
+    "slug": "obongaottertooth",
+    "officialName": "OBONGA-OTTERTOOTH PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "OBONGA-OTTERTOOTH",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 21157.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.86949,
+      "lng": -89.696939
+    }
+  },
+  {
+    "slug": "odonnellpoint",
+    "officialName": "O'DONNELL POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "O'DONNELL POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 882.0,
+    "cluster": "Oastler/Massasauga Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.083429,
+      "lng": -80.072857
+    }
+  },
+  {
+    "slug": "ogokiriver",
+    "officialName": "OGOKI RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "OGOKI RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2004,
+    "regulatedAreaHa": 23250.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.848675,
+      "lng": -87.24847
+    }
+  },
+  {
+    "slug": "ojibway",
+    "officialName": "OJIBWAY PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "OJIBWAY",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 2630.55,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.995155,
+      "lng": -92.157251
+    }
+  },
+  {
+    "slug": "ojibwayprairie",
+    "officialName": "OJIBWAY PRAIRIE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "OJIBWAY PRAIRIE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1977,
+    "regulatedAreaHa": 64.12,
+    "cluster": "Wheatley Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.258907,
+      "lng": -83.069678
+    }
+  },
+  {
+    "slug": "opasquia",
+    "officialName": "OPASQUIA PROVINCIAL PARK",
+    "shortName": "OPASQUIA",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": false,
+    "yearEstablished": 1983,
+    "regulatedAreaHa": 473000.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 53.556157,
+      "lng": -93.167724
+    }
+  },
+  {
+    "slug": "opeongoriver",
+    "officialName": "OPEONGO RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "OPEONGO RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 955.0,
+    "cluster": "Algonquin Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.577056,
+      "lng": -77.942787
+    }
+  },
+  {
+    "slug": "otoskwinattawapiskatriver",
+    "officialName": "OTOSKWIN-ATTAWAPISKAT RIVER PROVINCIAL PARK",
+    "shortName": "OTOSKWIN-ATTAWAPISKAT RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 82529.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 52.130272,
+      "lng": -87.996479
+    }
+  },
+  {
+    "slug": "ottawariver",
+    "officialName": "OTTAWA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "OTTAWA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 125.05,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.750553,
+      "lng": -76.766223
+    }
+  },
+  {
+    "slug": "ouimetcanyon",
+    "officialName": "OUIMET CANYON PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "OUIMET CANYON",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": true,
+    "yearEstablished": 1972,
+    "regulatedAreaHa": 777.02,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.786295,
+      "lng": -88.670884
+    }
+  },
+  {
+    "slug": "oxtongueriverraggedfalls",
+    "officialName": "OXTONGUE RIVER-RAGGED FALLS PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "OXTONGUE RIVER-RAGGED FALLS",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 507.0,
+    "cluster": "Arrowhead Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.408203,
+      "lng": -78.888195
+    }
+  },
+  {
+    "slug": "pahngwahshahshkohweemushkeeg",
+    "officialName": "PAHNGWAHSHAHSHK OHWEEMUSHKEEG",
+    "shortName": "PAHNGWAHSHAHSHK OHWEEMUSHKEEG",
+    "type": "Protected Area - Far North",
+    "classification": "Unclassified",
+    "operating": false,
+    "yearEstablished": 2011,
+    "regulatedAreaHa": 57761.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 52.046633,
+      "lng": -93.385072
+    }
+  },
+  {
+    "slug": "pakwash",
+    "officialName": "PAKWASH PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PAKWASH",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 3993.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.749685,
+      "lng": -93.537161
+    }
+  },
+  {
+    "slug": "pancakebay",
+    "officialName": "PANCAKE BAY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "PANCAKE BAY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1968,
+    "regulatedAreaHa": 1659.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.9738,
+      "lng": -84.656715
+    }
+  },
+  {
+    "slug": "panlakefen",
+    "officialName": "PAN LAKE FEN PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PAN LAKE FEN",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2000,
+    "regulatedAreaHa": 496.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.843278,
+      "lng": -85.975873
+    }
+  },
+  {
+    "slug": "pantagruelcreek",
+    "officialName": "PANTAGRUEL CREEK PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PANTAGRUEL CREEK",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 2685.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.743114,
+      "lng": -89.583686
+    }
+  },
+  {
+    "slug": "petawawaterrace",
+    "officialName": "PETAWAWA TERRACE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PETAWAWA TERRACE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 201.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.890675,
+      "lng": -77.232063
+    }
+  },
+  {
+    "slug": "peterswoods",
+    "officialName": "PETER'S WOODS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PETER'S WOODS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1976,
+    "regulatedAreaHa": 349.0,
+    "cluster": "Darlington Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.119816,
+      "lng": -78.031732
+    }
+  },
+  {
+    "slug": "petroglyphs",
+    "officialName": "PETROGLYPHS PROVINCIAL PARK (CULTURAL HERITAGE CLASS)",
+    "shortName": "PETROGLYPHS",
+    "type": "Provincial Park",
+    "classification": "Cultural Heritage",
+    "operating": true,
+    "yearEstablished": 1976,
+    "regulatedAreaHa": 1643.0,
+    "cluster": "Silent Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.610214,
+      "lng": -78.026605
+    }
+  },
+  {
+    "slug": "pichogenrivermixedforest",
+    "officialName": "PICHOGEN RIVER MIXED FOREST PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PICHOGEN RIVER MIXED FOREST",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 3043.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.937142,
+      "lng": -83.97725
+    }
+  },
+  {
+    "slug": "pigeonriver",
+    "officialName": "PIGEON RIVER PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PIGEON RIVER",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1960,
+    "regulatedAreaHa": 943.0,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.012429,
+      "lng": -89.577952
+    }
+  },
+  {
+    "slug": "pinery",
+    "officialName": "PINERY PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PINERY",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 2532.19,
+    "cluster": "The Pinery Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.262143,
+      "lng": -81.839952
+    }
+  },
+  {
+    "slug": "pipestoneriver",
+    "officialName": "PIPESTONE RIVER PROVINCIAL PARK",
+    "shortName": "PIPESTONE RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 97375.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 52.2331,
+      "lng": -90.278062
+    }
+  },
+  {
+    "slug": "pointfarms",
+    "officialName": "POINT FARMS PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "POINT FARMS",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 307.57,
+    "cluster": "The Pinery Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.804708,
+      "lng": -81.721804
+    }
+  },
+  {
+    "slug": "pokeilakewhiteriverwetlands",
+    "officialName": "POKEI LAKE/WHITE RIVER WETLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "POKEI LAKE/WHITE RIVER WETLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2000,
+    "regulatedAreaHa": 1768.0,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.48337,
+      "lng": -85.244369
+    }
+  },
+  {
+    "slug": "polarbear",
+    "officialName": "POLAR BEAR PROVINCIAL PARK",
+    "shortName": "POLAR BEAR",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": false,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 2355200.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 55.132441,
+      "lng": -83.847227
+    }
+  },
+  {
+    "slug": "porphyryisland",
+    "officialName": "PORPHYRY ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PORPHYRY ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1968,
+    "regulatedAreaHa": 106.84,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.348844,
+      "lng": -88.637501
+    }
+  },
+  {
+    "slug": "portbruce",
+    "officialName": "PORT BRUCE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "PORT BRUCE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1974,
+    "regulatedAreaHa": 7.0,
+    "cluster": "Port Burwell Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.653526,
+      "lng": -81.01334
+    }
+  },
+  {
+    "slug": "portburwell",
+    "officialName": "PORT BURWELL PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "PORT BURWELL",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 239.0,
+    "cluster": "Port Burwell Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.645615,
+      "lng": -80.812832
+    }
+  },
+  {
+    "slug": "potholes",
+    "officialName": "POTHOLES PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "POTHOLES",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 247.0,
+    "cluster": "Chapleau West Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.957542,
+      "lng": -84.264215
+    }
+  },
+  {
+    "slug": "prairierivermouth",
+    "officialName": "PRAIRIE RIVER MOUTH PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PRAIRIE RIVER MOUTH",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 380.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.780497,
+      "lng": -86.790452
+    }
+  },
+  {
+    "slug": "presquile",
+    "officialName": "PRESQU'ILE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PRESQU'ILE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1922,
+    "regulatedAreaHa": 982.0,
+    "cluster": "Presqu'ile Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.995559,
+      "lng": -77.720327
+    }
+  },
+  {
+    "slug": "prettyrivervalley",
+    "officialName": "PRETTY RIVER VALLEY PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PRETTY RIVER VALLEY",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1112.0,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.427267,
+      "lng": -80.28933
+    }
+  },
+  {
+    "slug": "puffisland",
+    "officialName": "PUFF ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PUFF ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 9.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.6618,
+      "lng": -88.041559
+    }
+  },
+  {
+    "slug": "pukaskwariver",
+    "officialName": "PUKASKWA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "PUKASKWA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 1465.0,
+    "cluster": "Lake Superior Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.305897,
+      "lng": -85.369365
+    }
+  },
+  {
+    "slug": "pushkinhills",
+    "officialName": "PUSHKIN HILLS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "PUSHKIN HILLS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 5.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.294182,
+      "lng": -79.673528
+    }
+  },
+  {
+    "slug": "puzzlelake",
+    "officialName": "PUZZLE LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "PUZZLE LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2001,
+    "regulatedAreaHa": 3777.0,
+    "cluster": "Bon Echo Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.595512,
+      "lng": -76.956333
+    }
+  },
+  {
+    "slug": "quackenbush",
+    "officialName": "QUACKENBUSH PROVINCIAL PARK (CULTURAL HERITAGE CLASS)",
+    "shortName": "QUACKENBUSH",
+    "type": "Provincial Park",
+    "classification": "Cultural Heritage",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 40.0,
+    "cluster": "Silent Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.562328,
+      "lng": -78.002519
+    }
+  },
+  {
+    "slug": "queenelizabethiiwildlands",
+    "officialName": "QUEEN ELIZABETH II WILDLANDS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "QUEEN ELIZABETH II WILDLANDS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 33505.0,
+    "cluster": "Balsam Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.826727,
+      "lng": -78.972645
+    }
+  },
+  {
+    "slug": "queenelizabeththequeenmothermnidoomnising",
+    "officialName": "QUEEN ELIZABETH THE QUEEN MOTHER MNIDOO MNISING PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "QUEEN ELIZABETH THE QUEEN MOTHER MNIDOO MNISING",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2014,
+    "regulatedAreaHa": 6530.0,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.836415,
+      "lng": -82.997638
+    }
+  },
+  {
+    "slug": "quetico",
+    "officialName": "QUETICO PROVINCIAL PARK (WILDERNESS CLASS)",
+    "shortName": "QUETICO",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": true,
+    "yearEstablished": 1913,
+    "regulatedAreaHa": 471942.0,
+    "cluster": "Quetico Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.363336,
+      "lng": -91.88512
+    }
+  },
+  {
+    "slug": "rainbowfalls",
+    "officialName": "RAINBOW FALLS PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "RAINBOW FALLS",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 575.59,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.837703,
+      "lng": -87.441114
+    }
+  },
+  {
+    "slug": "redsuckerpoint",
+    "officialName": "RED SUCKER POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "RED SUCKER POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 360.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.764313,
+      "lng": -86.474749
+    }
+  },
+  {
+    "slug": "renbrunelle",
+    "officialName": "RENÉ BRUNELLE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "RENÉ BRUNELLE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 3015.0,
+    "cluster": "Hearst Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.447127,
+      "lng": -82.163815
+    }
+  },
+  {
+    "slug": "restoule",
+    "officialName": "RESTOULE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "RESTOULE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 2619.0,
+    "cluster": "Restoule Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.085729,
+      "lng": -79.866401
+    }
+  },
+  {
+    "slug": "rideauriver",
+    "officialName": "RIDEAU RIVER PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "RIDEAU RIVER",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 97.93,
+    "cluster": "Murphys Point Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.056929,
+      "lng": -75.670895
+    }
+  },
+  {
+    "slug": "riverauxsables",
+    "officialName": "RIVER AUX SABLES PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "RIVER AUX SABLES",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 3423.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.481819,
+      "lng": -82.170568
+    }
+  },
+  {
+    "slug": "rockpoint",
+    "officialName": "ROCK POINT PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "ROCK POINT",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 187.0,
+    "cluster": "Bronte Creek Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.843219,
+      "lng": -79.549741
+    }
+  },
+  {
+    "slug": "rondeau",
+    "officialName": "RONDEAU PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "RONDEAU",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1894,
+    "regulatedAreaHa": 3254.0,
+    "cluster": "Rondeau Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.27845,
+      "lng": -81.858287
+    }
+  },
+  {
+    "slug": "roundlake",
+    "officialName": "ROUND LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "ROUND LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 2585.0,
+    "cluster": "Killbear Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.506731,
+      "lng": -80.188936
+    }
+  },
+  {
+    "slug": "rubylake",
+    "officialName": "RUBY LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "RUBY LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 2734.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.975045,
+      "lng": -88.159274
+    }
+  },
+  {
+    "slug": "rushbrook",
+    "officialName": "RUSHBROOK PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "RUSHBROOK",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2006,
+    "regulatedAreaHa": 2159.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.740303,
+      "lng": -81.945127
+    }
+  },
+  {
+    "slug": "rushingriver",
+    "officialName": "RUSHING RIVER PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "RUSHING RIVER",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 340.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.687709,
+      "lng": -94.218213
+    }
+  },
+  {
+    "slug": "sableislands",
+    "officialName": "SABLE ISLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SABLE ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 2641.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.899832,
+      "lng": -94.651028
+    }
+  },
+  {
+    "slug": "sahkeesuhkuhweesuhkaheegahn",
+    "officialName": "SAHKEESUHKUH WEESUHKAHEEGAHN",
+    "shortName": "SAHKEESUHKUH WEESUHKAHEEGAHN",
+    "type": "Protected Area - Far North",
+    "classification": "Unclassified",
+    "operating": false,
+    "yearEstablished": 2011,
+    "regulatedAreaHa": 8873.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.536776,
+      "lng": -93.45117
+    }
+  },
+  {
+    "slug": "samueldechamplain",
+    "officialName": "SAMUEL DE CHAMPLAIN PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SAMUEL DE CHAMPLAIN",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 2550.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.298739,
+      "lng": -78.896502
+    }
+  },
+  {
+    "slug": "sandbanks",
+    "officialName": "SANDBANKS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SANDBANKS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 1572.0,
+    "cluster": "Sandbanks Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.902529,
+      "lng": -77.245847
+    }
+  },
+  {
+    "slug": "sandbarlake",
+    "officialName": "SANDBAR LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SANDBAR LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 8079.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.525376,
+      "lng": -91.561269
+    }
+  },
+  {
+    "slug": "sandpointisland",
+    "officialName": "SANDPOINT ISLAND PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SANDPOINT ISLAND",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 914.0,
+    "cluster": "Quetico Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.642316,
+      "lng": -93.115207
+    }
+  },
+  {
+    "slug": "sandyislands",
+    "officialName": "SANDY ISLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SANDY ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2001,
+    "regulatedAreaHa": 2553.0,
+    "cluster": "Algoma Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.823504,
+      "lng": -84.65928
+    }
+  },
+  {
+    "slug": "saublefalls",
+    "officialName": "SAUBLE FALLS PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SAUBLE FALLS",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 20.24,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.675754,
+      "lng": -81.255632
+    }
+  },
+  {
+    "slug": "schreiberchannel",
+    "officialName": "SCHREIBER CHANNEL PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SCHREIBER CHANNEL",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1979,
+    "regulatedAreaHa": 12.91,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.796527,
+      "lng": -87.346155
+    }
+  },
+  {
+    "slug": "sedgmanlake",
+    "officialName": "SEDGMAN LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SEDGMAN LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 5710.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.629064,
+      "lng": -87.729951
+    }
+  },
+  {
+    "slug": "selkirk",
+    "officialName": "SELKIRK PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SELKIRK",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1967,
+    "regulatedAreaHa": 72.64,
+    "cluster": "Turkey Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.808048,
+      "lng": -79.95697
+    }
+  },
+  {
+    "slug": "serpentmounds",
+    "officialName": "SERPENT MOUNDS PROVINCIAL PARK (CULTURAL HERITAGE CLASS)",
+    "shortName": "SERPENT MOUNDS",
+    "type": "Provincial Park",
+    "classification": "Cultural Heritage",
+    "operating": false,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 135.12,
+    "cluster": "Emily Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.197864,
+      "lng": -78.160714
+    }
+  },
+  {
+    "slug": "severnriver",
+    "officialName": "SEVERN RIVER PROVINCIAL PARK",
+    "shortName": "SEVERN RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 82960.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 54.015828,
+      "lng": -90.648241
+    }
+  },
+  {
+    "slug": "sextantrapids",
+    "officialName": "SEXTANT RAPIDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SEXTANT RAPIDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 4.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.204399,
+      "lng": -81.646421
+    }
+  },
+  {
+    "slug": "shallowriver",
+    "officialName": "SHALLOW RIVER PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SHALLOW RIVER",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 2.25,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.640693,
+      "lng": -80.532964
+    }
+  },
+  {
+    "slug": "sharbotlake",
+    "officialName": "SHARBOT LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SHARBOT LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 80.0,
+    "cluster": "Sharbot Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.774116,
+      "lng": -76.71908
+    }
+  },
+  {
+    "slug": "shesheebbay",
+    "officialName": "SHESHEEB BAY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SHESHEEB BAY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 275.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.590371,
+      "lng": -88.269379
+    }
+  },
+  {
+    "slug": "shorthills",
+    "officialName": "SHORT HILLS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SHORT HILLS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 720.0,
+    "cluster": "Bronte Creek Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.102635,
+      "lng": -79.279177
+    }
+  },
+  {
+    "slug": "sibbaldpoint",
+    "officialName": "SIBBALD POINT PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SIBBALD POINT",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 225.01,
+    "cluster": "Sibbald Point Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.333603,
+      "lng": -79.325054
+    }
+  },
+  {
+    "slug": "silentlake",
+    "officialName": "SILENT LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SILENT LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1977,
+    "regulatedAreaHa": 1610.0,
+    "cluster": "Silent Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.923758,
+      "lng": -78.049714
+    }
+  },
+  {
+    "slug": "silverfalls",
+    "officialName": "SILVER FALLS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SILVER FALLS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 3259.85,
+    "cluster": "Kakabeka Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.697906,
+      "lng": -89.598706
+    }
+  },
+  {
+    "slug": "silverlake",
+    "officialName": "SILVER LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SILVER LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 43.23,
+    "cluster": "Sharbot Lake Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.83107,
+      "lng": -76.57692
+    }
+  },
+  {
+    "slug": "siouxnarrows",
+    "officialName": "SIOUX NARROWS PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SIOUX NARROWS",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1957,
+    "regulatedAreaHa": 135.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.420462,
+      "lng": -94.05521
+    }
+  },
+  {
+    "slug": "sixmilelake",
+    "officialName": "SIX MILE LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SIX MILE LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 212.0,
+    "cluster": "Six Mile Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.88945,
+      "lng": -79.757037
+    }
+  },
+  {
+    "slug": "slateislands",
+    "officialName": "SLATE ISLANDS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SLATE ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 6570.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.657762,
+      "lng": -86.999211
+    }
+  },
+  {
+    "slug": "sleepinggiant",
+    "officialName": "SLEEPING GIANT PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "SLEEPING GIANT",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1944,
+    "regulatedAreaHa": 24487.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.393453,
+      "lng": -88.785509
+    }
+  },
+  {
+    "slug": "smokeyheadwhitebluff",
+    "officialName": "SMOKEY HEAD-WHITE BLUFF PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SMOKEY HEAD-WHITE BLUFF",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 346.7,
+    "cluster": "MacGregor Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.077024,
+      "lng": -81.268353
+    }
+  },
+  {
+    "slug": "solace",
+    "officialName": "SOLACE PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "SOLACE",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 5943.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.187295,
+      "lng": -80.681386
+    }
+  },
+  {
+    "slug": "southbay",
+    "officialName": "SOUTH BAY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SOUTH BAY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1525.0,
+    "cluster": "Restoule Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.140275,
+      "lng": -79.600483
+    }
+  },
+  {
+    "slug": "spanishriver",
+    "officialName": "SPANISH RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "SPANISH RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 2001,
+    "regulatedAreaHa": 35386.0,
+    "cluster": "Mississagi/Spanish River Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.837033,
+      "lng": -81.821584
+    }
+  },
+  {
+    "slug": "springwater",
+    "officialName": "SPRINGWATER PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "SPRINGWATER",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1958,
+    "regulatedAreaHa": 193.0,
+    "cluster": "Bass Lake Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.436278,
+      "lng": -79.763704
+    }
+  },
+  {
+    "slug": "spruceislands",
+    "officialName": "SPRUCE ISLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "SPRUCE ISLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1497.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.80924,
+      "lng": -94.315977
+    }
+  },
+  {
+    "slug": "steelriver",
+    "officialName": "STEEL RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "STEEL RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 11240.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.159681,
+      "lng": -86.807177
+    }
+  },
+  {
+    "slug": "stocofen",
+    "officialName": "STOCO FEN PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "STOCO FEN",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 350.0,
+    "cluster": "Bon Echo Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.46291,
+      "lng": -77.231261
+    }
+  },
+  {
+    "slug": "straphael",
+    "officialName": "ST. RAPHAEL PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "ST. RAPHAEL",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 90521.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.810183,
+      "lng": -90.73874
+    }
+  },
+  {
+    "slug": "strawberryisland",
+    "officialName": "STRAWBERRY ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "STRAWBERRY ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2014,
+    "regulatedAreaHa": 1145.0,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.939981,
+      "lng": -81.859682
+    }
+  },
+  {
+    "slug": "sturgeonbay",
+    "officialName": "STURGEON BAY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "STURGEON BAY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1960,
+    "regulatedAreaHa": 14.23,
+    "cluster": "Grundy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.623256,
+      "lng": -80.41579
+    }
+  },
+  {
+    "slug": "sturgeonriver",
+    "officialName": "STURGEON RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "STURGEON RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 7985.0,
+    "cluster": "Grundy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.006184,
+      "lng": -80.567905
+    }
+  },
+  {
+    "slug": "temagamiriver",
+    "officialName": "TEMAGAMI RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "TEMAGAMI RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2000,
+    "regulatedAreaHa": 3394.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.6953,
+      "lng": -80.010797
+    }
+  },
+  {
+    "slug": "thackeray",
+    "officialName": "THACKERAY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "THACKERAY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 116.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.449599,
+      "lng": -79.950629
+    }
+  },
+  {
+    "slug": "themassasauga",
+    "officialName": "THE MASSASAUGA PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "THE MASSASAUGA",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 13264.0,
+    "cluster": "Oastler/Massasauga Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.164567,
+      "lng": -80.067042
+    }
+  },
+  {
+    "slug": "theshoals",
+    "officialName": "THE SHOALS PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "THE SHOALS",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 10644.0,
+    "cluster": "Chapleau West Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.922997,
+      "lng": -83.831188
+    }
+  },
+  {
+    "slug": "thompsonisland",
+    "officialName": "THOMPSON ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "THOMPSON ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 145.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.16135,
+      "lng": -89.173636
+    }
+  },
+  {
+    "slug": "tidelake",
+    "officialName": "TIDE LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "TIDE LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 54.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.319782,
+      "lng": -93.995038
+    }
+  },
+  {
+    "slug": "tidewater",
+    "officialName": "TIDEWATER PROVINCIAL PARK",
+    "shortName": "TIDEWATER",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1970,
+    "regulatedAreaHa": 979.78,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.239733,
+      "lng": -80.636539
+    }
+  },
+  {
+    "slug": "timberisland",
+    "officialName": "TIMBER ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "TIMBER ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 44.0,
+    "cluster": "Sandbanks Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.957893,
+      "lng": -76.837336
+    }
+  },
+  {
+    "slug": "trilliumwoods",
+    "officialName": "TRILLIUM WOODS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "TRILLIUM WOODS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1969,
+    "regulatedAreaHa": 10.12,
+    "cluster": "Port Burwell Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 43.063669,
+      "lng": -80.778535
+    }
+  },
+  {
+    "slug": "troutlake",
+    "officialName": "TROUT LAKE PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "TROUT LAKE",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 7150.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.153951,
+      "lng": -93.425046
+    }
+  },
+  {
+    "slug": "turkeypoint",
+    "officialName": "TURKEY POINT PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "TURKEY POINT",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1959,
+    "regulatedAreaHa": 369.0,
+    "cluster": "Turkey Point Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.690849,
+      "lng": -80.328639
+    }
+  },
+  {
+    "slug": "turtleriverwhiteotterlake",
+    "officialName": "TURTLE RIVER-WHITE OTTER LAKE PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "TURTLE RIVER-WHITE OTTER LAKE",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 49322.0,
+    "cluster": "Quetico Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.118736,
+      "lng": -92.147067
+    }
+  },
+  {
+    "slug": "uppermadawaskariver",
+    "officialName": "UPPER MADAWASKA RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "UPPER MADAWASKA RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 1085.0,
+    "cluster": "Algonquin Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.512469,
+      "lng": -78.091281
+    }
+  },
+  {
+    "slug": "uxbridge",
+    "officialName": "UXBRIDGE URBAN PROVINCIAL PARK (URBAN CLASS)",
+    "shortName": "UXBRIDGE",
+    "type": "Provincial Park",
+    "classification": "Urban",
+    "operating": true,
+    "yearEstablished": 2024,
+    "regulatedAreaHa": 532.0,
+    "cluster": "Emily Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.070451,
+      "lng": -79.13752
+    }
+  },
+  {
+    "slug": "voyageur",
+    "officialName": "VOYAGEUR PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "VOYAGEUR",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1966,
+    "regulatedAreaHa": 1466.0,
+    "cluster": "Voyageur Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.566835,
+      "lng": -74.441251
+    }
+  },
+  {
+    "slug": "wabakimi",
+    "officialName": "WABAKIMI PROVINCIAL PARK",
+    "shortName": "WABAKIMI",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": true,
+    "yearEstablished": 1983,
+    "regulatedAreaHa": 892940.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.574673,
+      "lng": -89.623366
+    }
+  },
+  {
+    "slug": "wakamilake",
+    "officialName": "WAKAMI LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "WAKAMI LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1973,
+    "regulatedAreaHa": 8806.27,
+    "cluster": "Chapleau West Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.505126,
+      "lng": -82.833775
+    }
+  },
+  {
+    "slug": "wakamilakeaddition",
+    "officialName": "WAKAMI LAKE PROVINCIAL PARK ADDITION (NATURE RESERVE CLASS)",
+    "shortName": "WAKAMI LAKE ADDITION",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 3509.0,
+    "cluster": "Chapleau West Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.462518,
+      "lng": -82.779779
+    }
+  },
+  {
+    "slug": "wanapitei",
+    "officialName": "WANAPITEI PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WANAPITEI",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 3412.85,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.796299,
+      "lng": -80.749967
+    }
+  },
+  {
+    "slug": "wasagabeach",
+    "officialName": "WASAGA BEACH PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "WASAGA BEACH",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1959,
+    "regulatedAreaHa": 1844.3,
+    "cluster": "Wasaga Beach Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.496946,
+      "lng": -80.043208
+    }
+  },
+  {
+    "slug": "waubaushenebeaches",
+    "officialName": "WAUBAUSHENE BEACHES PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WAUBAUSHENE BEACHES",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1969,
+    "regulatedAreaHa": 33.84,
+    "cluster": "Awenda Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.748859,
+      "lng": -79.720154
+    }
+  },
+  {
+    "slug": "weeskayjahkohtahzhoganeeng",
+    "officialName": "WEESKAYJAHK OHTAHZHOGANEENG",
+    "shortName": "WEESKAYJAHK OHTAHZHOGANEENG",
+    "type": "Protected Area - Far North",
+    "classification": "Unclassified",
+    "operating": false,
+    "yearEstablished": 2011,
+    "regulatedAreaHa": 178456.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 51.704561,
+      "lng": -94.317378
+    }
+  },
+  {
+    "slug": "wenebegonriver",
+    "officialName": "WENEBEGON RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "WENEBEGON RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 16383.0,
+    "cluster": "Chapleau East Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.33907,
+      "lng": -83.107401
+    }
+  },
+  {
+    "slug": "westbay",
+    "officialName": "WEST BAY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WEST BAY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 1120.0,
+    "cluster": "Sleeping Giant Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.893885,
+      "lng": -88.930372
+    }
+  },
+  {
+    "slug": "westenglishriver",
+    "officialName": "WEST ENGLISH RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "WEST ENGLISH RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 22922.0,
+    "cluster": "Kenora Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.467847,
+      "lng": -93.74886
+    }
+  },
+  {
+    "slug": "westmeath",
+    "officialName": "WESTMEATH PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WESTMEATH",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 610.0,
+    "cluster": "Bonnechere Park Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 45.78584,
+      "lng": -76.91065
+    }
+  },
+  {
+    "slug": "westmontrealriver",
+    "officialName": "WEST MONTREAL RIVER PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "WEST MONTREAL RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 7259.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.833707,
+      "lng": -80.770195
+    }
+  },
+  {
+    "slug": "westsandyisland",
+    "officialName": "WEST SANDY ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WEST SANDY ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1994,
+    "regulatedAreaHa": 260.0,
+    "cluster": "Killarney Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.238897,
+      "lng": -79.918947
+    }
+  },
+  {
+    "slug": "wheatley",
+    "officialName": "WHEATLEY PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "WHEATLEY",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1971,
+    "regulatedAreaHa": 241.2,
+    "cluster": "Wheatley Cluster (Southwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 42.084117,
+      "lng": -82.444949
+    }
+  },
+  {
+    "slug": "whitelake",
+    "officialName": "WHITE LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WHITE LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": true,
+    "yearEstablished": 1963,
+    "regulatedAreaHa": 4048.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.595848,
+      "lng": -85.897926
+    }
+  },
+  {
+    "slug": "whitelakepeatlands",
+    "officialName": "WHITE LAKE PEATLANDS PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WHITE LAKE PEATLANDS",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1997,
+    "regulatedAreaHa": 992.0,
+    "cluster": "Northshore Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.855366,
+      "lng": -85.560667
+    }
+  },
+  {
+    "slug": "whitesand",
+    "officialName": "WHITESAND PROVINCIAL PARK (WATERWAY CLASS)",
+    "shortName": "WHITESAND",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 11337.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.479464,
+      "lng": -88.698296
+    }
+  },
+  {
+    "slug": "widdifieldforest",
+    "officialName": "WIDDIFIELD FOREST PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WIDDIFIELD FOREST",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 2170.0,
+    "cluster": "Mattawa-Ottawa River Valley Cluster (Algonquin Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.450597,
+      "lng": -79.311862
+    }
+  },
+  {
+    "slug": "wildgooseoutwashdeposit",
+    "officialName": "WILDGOOSE OUTWASH DEPOSIT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WILDGOOSE OUTWASH DEPOSIT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 2002,
+    "regulatedAreaHa": 1198.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 48.389007,
+      "lng": -80.440075
+    }
+  },
+  {
+    "slug": "williamsisland",
+    "officialName": "WILLIAMS ISLAND PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WILLIAMS ISLAND",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 8.0,
+    "cluster": "Cochrane Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.396135,
+      "lng": -81.570542
+    }
+  },
+  {
+    "slug": "windigobay",
+    "officialName": "WINDIGO BAY PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WINDIGO BAY",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 8378.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.225546,
+      "lng": -88.823065
+    }
+  },
+  {
+    "slug": "windigopoint",
+    "officialName": "WINDIGO POINT PROVINCIAL PARK (NATURE RESERVE CLASS)",
+    "shortName": "WINDIGO POINT",
+    "type": "Provincial Park",
+    "classification": "Nature Reserve",
+    "operating": false,
+    "yearEstablished": 1989,
+    "regulatedAreaHa": 513.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.378049,
+      "lng": -92.72692
+    }
+  },
+  {
+    "slug": "windylake",
+    "officialName": "WINDY LAKE PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "WINDY LAKE",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": true,
+    "yearEstablished": 1959,
+    "regulatedAreaHa": 118.45,
+    "cluster": "Windy Lake Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 46.619492,
+      "lng": -81.443763
+    }
+  },
+  {
+    "slug": "winiskriver",
+    "officialName": "WINISK RIVER PROVINCIAL PARK",
+    "shortName": "WINISK RIVER",
+    "type": "Provincial Park",
+    "classification": "Waterway",
+    "operating": false,
+    "yearEstablished": 1969,
+    "regulatedAreaHa": 141100.0,
+    "cluster": "Wabakimi Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 53.938602,
+      "lng": -86.988124
+    }
+  },
+  {
+    "slug": "winnangelake",
+    "officialName": "WINNANGE LAKE PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WINNANGE LAKE",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 4745.0,
+    "cluster": "Dryden Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 49.76577,
+      "lng": -93.679434
+    }
+  },
+  {
+    "slug": "wjbgreenwood",
+    "officialName": "W.J.B. GREENWOOD PROVINCIAL PARK (RECREATIONAL CLASS)",
+    "shortName": "W.J.B. GREENWOOD",
+    "type": "Provincial Park",
+    "classification": "Recreational",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 465.0,
+    "cluster": "Temagami Area Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.30887,
+      "lng": -79.812753
+    }
+  },
+  {
+    "slug": "wolfisland",
+    "officialName": "WOLF ISLAND PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WOLF ISLAND",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 1985,
+    "regulatedAreaHa": 222.0,
+    "cluster": "Emily Cluster (Southeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 44.560202,
+      "lng": -78.250801
+    }
+  },
+  {
+    "slug": "womanriverforest",
+    "officialName": "WOMAN RIVER FOREST PROVINCIAL PARK (NATURAL ENVIRONMENT CLASS)",
+    "shortName": "WOMAN RIVER FOREST",
+    "type": "Provincial Park",
+    "classification": "Natural Environment",
+    "operating": false,
+    "yearEstablished": 2003,
+    "regulatedAreaHa": 6305.0,
+    "cluster": "Chapleau East Cluster (Northeast Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 47.45667,
+      "lng": -82.682937
+    }
+  },
+  {
+    "slug": "woodlandcaribou",
+    "officialName": "WOODLAND CARIBOU PROVINCIAL PARK (WILDERNESS CLASS)",
+    "shortName": "WOODLAND CARIBOU",
+    "type": "Provincial Park",
+    "classification": "Wilderness",
+    "operating": true,
+    "yearEstablished": 1983,
+    "regulatedAreaHa": 470620.0,
+    "cluster": "Red Lake Cluster (Northwest Zone)",
+    "location": "Ontario",
+    "coordinates": {
+      "lat": 50.751614,
+      "lng": -94.564568
+    }
+  }
+]

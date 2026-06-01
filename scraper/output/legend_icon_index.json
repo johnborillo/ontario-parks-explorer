@@ -1,0 +1,354 @@
+{
+  "12": {
+    "label": "Amphitheater",
+    "file": "12.png"
+  },
+  "23": {
+    "label": "Beach",
+    "file": "23.png"
+  },
+  "29": {
+    "label": "Biking",
+    "file": "29.png"
+  },
+  "71": {
+    "label": "ComfortStation",
+    "file": "71.png"
+  },
+  "72": {
+    "label": "ComfortStationShowers",
+    "file": "72.png"
+  },
+  "177": {
+    "label": "Lookoutright",
+    "file": "177.png"
+  },
+  "235": {
+    "label": "Parking",
+    "file": "235.png"
+  },
+  "237": {
+    "label": "Parkoffice",
+    "file": "237.png"
+  },
+  "258": {
+    "label": "RadioFree",
+    "file": "258.png"
+  },
+  "263": {
+    "label": "Recycling",
+    "file": "263.png"
+  },
+  "305": {
+    "label": "Store",
+    "file": "305.png"
+  },
+  "306": {
+    "label": "Swimming",
+    "file": "306.png"
+  },
+  "321": {
+    "label": "Trailerdumping2",
+    "file": "321.png"
+  },
+  "322": {
+    "label": "Trailerfilling",
+    "file": "322.png"
+  },
+  "330": {
+    "label": "VaultToilet",
+    "file": "330.png"
+  },
+  "385": {
+    "label": "Dayusearea2",
+    "file": "385.png"
+  },
+  "389": {
+    "label": "Firewood2",
+    "file": "389.png"
+  },
+  "392": {
+    "label": "Garbage2",
+    "file": "392.png"
+  },
+  "398": {
+    "label": "Hiking",
+    "file": "398.png"
+  },
+  "464": {
+    "label": "PicnicShelter2",
+    "file": "464.png"
+  },
+  "642": {
+    "label": "VisitorCentre1",
+    "file": "642.png"
+  },
+  "652": {
+    "label": "VisitorCentre2",
+    "file": "652.png"
+  },
+  "706": {
+    "label": "watertap3",
+    "file": "706.png"
+  },
+  "789": {
+    "label": "PetsOrPetsArea",
+    "file": "789.png"
+  },
+  "816": {
+    "label": "OPElectricalCamping",
+    "file": "816.png"
+  },
+  "818": {
+    "label": "OPFishingCleaningStation",
+    "file": "818.png"
+  },
+  "819": {
+    "label": "OPNonElectricalCamping",
+    "file": "819.png"
+  },
+  "822": {
+    "label": "OPRoofedAccomodation",
+    "file": "822.png"
+  },
+  "0": {
+    "label": "Accessible",
+    "file": "0.png"
+  },
+  "122": {
+    "label": "Gatehouse",
+    "file": "122.png"
+  },
+  "131": {
+    "label": "GroupCamping",
+    "file": "131.png"
+  },
+  "239": {
+    "label": "PayPhone",
+    "file": "239.png"
+  },
+  "412": {
+    "label": "Picnicarea2",
+    "file": "412.png"
+  },
+  "825": {
+    "label": "GeneratorFree",
+    "file": "825.png"
+  },
+  "634": {
+    "label": "LaundryFacilities",
+    "file": "634.png"
+  },
+  "158": {
+    "label": "Information",
+    "file": "158.png"
+  },
+  "629": {
+    "label": "BoatLaunch3",
+    "file": "629.png"
+  },
+  "636": {
+    "label": "Playground5",
+    "file": "636.png"
+  },
+  "109": {
+    "label": "Firstaid",
+    "file": "109.png"
+  },
+  "52": {
+    "label": "Canoelaunch",
+    "file": "52.png"
+  },
+  "149": {
+    "label": "Horseshoes",
+    "file": "149.png"
+  },
+  "182": {
+    "label": "Marsh",
+    "file": "182.png"
+  },
+  "254": {
+    "label": "Portage",
+    "file": "254.png"
+  },
+  "335": {
+    "label": "Volleyball",
+    "file": "335.png"
+  },
+  "383": {
+    "label": "Comforthouse",
+    "file": "383.png"
+  },
+  "808": {
+    "label": "SKVolleyballBasketballCourt",
+    "file": "808.png"
+  },
+  "814": {
+    "label": "OPCanoeing",
+    "file": "814.png"
+  },
+  "821": {
+    "label": "OPPetFree",
+    "file": "821.png"
+  },
+  "18": {
+    "label": "Backcountrycamping",
+    "file": "18.png"
+  },
+  "354": {
+    "label": "DogBeach",
+    "file": "354.png"
+  },
+  "382": {
+    "label": "Changehouse",
+    "file": "382.png"
+  },
+  "337": {
+    "label": "WalkInCamping",
+    "file": "337.png"
+  },
+  "446": {
+    "label": "Water2",
+    "file": "446.png"
+  },
+  "653": {
+    "label": "balldiamondplayfield",
+    "file": "653.png"
+  },
+  "650": {
+    "label": "LaundryBuilding",
+    "file": "650.png"
+  },
+  "358": {
+    "label": "Groceriesshopping",
+    "file": "358.png"
+  },
+  "815": {
+    "label": "OPCanoeRack",
+    "file": "815.png"
+  },
+  "34": {
+    "label": "Boatrental",
+    "file": "34.png"
+  },
+  "656": {
+    "label": "campfireCircle1",
+    "file": "656.png"
+  },
+  "132": {
+    "label": "Grouppicnicarea",
+    "file": "132.png"
+  },
+  "161": {
+    "label": "Interpretationcentre",
+    "file": "161.png"
+  },
+  "172": {
+    "label": "Lighthouse",
+    "file": "172.png"
+  },
+  "673": {
+    "label": "DishwashStation",
+    "file": "673.png"
+  },
+  "3": {
+    "label": "Accessibleparking",
+    "file": "3.png"
+  },
+  "32": {
+    "label": "BoatLaunch",
+    "file": "32.png"
+  },
+  "266": {
+    "label": "Restroom",
+    "file": "266.png"
+  },
+  "115": {
+    "label": "Foodlocker",
+    "file": "115.png"
+  },
+  "772": {
+    "label": "BuildingGeneral",
+    "file": "772.png"
+  },
+  "48": {
+    "label": "CanoeAccess",
+    "file": "48.png"
+  },
+  "817": {
+    "label": "OPEmergencyPhone",
+    "file": "817.png"
+  },
+  "110": {
+    "label": "FishCleaning",
+    "file": "110.png"
+  },
+  "756": {
+    "label": "RentalsBoatCanoeBike",
+    "file": "756.png"
+  },
+  "458": {
+    "label": "Cabin",
+    "file": "458.png"
+  },
+  "281": {
+    "label": "Selfservefeestation",
+    "file": "281.png"
+  },
+  "22": {
+    "label": "Basketball",
+    "file": "22.png"
+  },
+  "84": {
+    "label": "DayUseArea",
+    "file": "84.png"
+  },
+  "336": {
+    "label": "Volleyball1",
+    "file": "336.png"
+  },
+  "365": {
+    "label": "Dogrun",
+    "file": "365.png"
+  },
+  "87": {
+    "label": "Dogsonleash",
+    "file": "87.png"
+  },
+  "245": {
+    "label": "Playfield",
+    "file": "245.png"
+  },
+  "600": {
+    "label": "Playground4",
+    "file": "600.png"
+  },
+  "61": {
+    "label": "Cemetery",
+    "file": "61.png"
+  },
+  "68": {
+    "label": "Church",
+    "file": "68.png"
+  },
+  "436": {
+    "label": "Tennis2",
+    "file": "436.png"
+  },
+  "643": {
+    "label": "WaterTap2",
+    "file": "643.png"
+  },
+  "39": {
+    "label": "Busparking",
+    "file": "39.png"
+  },
+  "194": {
+    "label": "Museum",
+    "file": "194.png"
+  },
+  "314": {
+    "label": "Theatre",
+    "file": "314.png"
+  }
+}

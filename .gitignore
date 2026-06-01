@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build output
+dist/
+build/
+.vite/
+
+# Python (scraper venv + caches)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+scraper/logs/
+
+# Scraper intermediate data (regeneratable; keep the legend-icons + final parks.json)
+scraper/output/parks_details.json
+scraper/output/parks_database.json
+scraper/output/photo_data.json
+scraper/output/legend_data.json
+scraper/output/_park_progress.json
